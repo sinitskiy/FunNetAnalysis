@@ -1,0 +1,1 @@
+ref|NP_001029249.1| histone H4 [Homo sapiens]

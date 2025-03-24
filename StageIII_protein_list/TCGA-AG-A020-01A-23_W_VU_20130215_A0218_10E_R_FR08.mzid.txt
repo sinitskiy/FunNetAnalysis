@@ -1,0 +1,751 @@
+tr|C9JRG0|C9JRG0_HUMAN Hemoglobin subunit delta (Fragment) OS=Homo sapiens GN=HBD PE=2 SV=1
+tr|K7EJD3|K7EJD3_HUMAN Galectin-3-binding protein OS=Homo sapiens GN=LGALS3BP PE=2 SV=1
+sp|Q86UX7|URP2_HUMAN Fermitin family homolog 3 OS=Homo sapiens GN=FERMT3 PE=1 SV=1
+sp|Q96CS3|FAF2_HUMAN FAS-associated factor 2 OS=Homo sapiens GN=FAF2 PE=1 SV=2
+tr|B0YJC4|B0YJC4_HUMAN Vimentin OS=Homo sapiens GN=VIM PE=2 SV=1
+sp|P12270|TPR_HUMAN Nucleoprotein TPR OS=Homo sapiens GN=TPR PE=1 SV=3
+sp|P06748|NPM_HUMAN Nucleophosmin OS=Homo sapiens GN=NPM1 PE=1 SV=2
+sp|P14854|CX6B1_HUMAN Cytochrome c oxidase subunit 6B1 OS=Homo sapiens GN=COX6B1 PE=1 SV=2
+tr|K7EP46|K7EP46_HUMAN Thimet oligopeptidase OS=Homo sapiens GN=THOP1 PE=2 SV=1
+tr|E9PPU0|E9PPU0_HUMAN Epiplakin OS=Homo sapiens GN=EPPK1 PE=4 SV=1
+tr|H3BTP7|H3BTP7_HUMAN 60S ribosomal protein L4 (Fragment) OS=Homo sapiens GN=RPL4 PE=2 SV=1
+tr|B4E1F0|B4E1F0_HUMAN Plasma protease C1 inhibitor OS=Homo sapiens GN=SERPING1 PE=2 SV=1
+tr|H3BS70|H3BS70_HUMAN Enoyl-CoA delta isomerase 1, mitochondrial (Fragment) OS=Homo sapiens GN=ECI1 PE=2 SV=1
+tr|B0QYN7|B0QYN7_HUMAN SUMO-conjugating enzyme UBC9 OS=Homo sapiens GN=UBE2I PE=2 SV=1
+tr|B4DS61|B4DS61_HUMAN SFRS protein kinase 1, isoform CRA_f OS=Homo sapiens GN=SRPK1 PE=2 SV=1
+sp|Q9Y2Z4|SYYM_HUMAN Tyrosine--tRNA ligase, mitochondrial OS=Homo sapiens GN=YARS2 PE=1 SV=2
+tr|F6U211|F6U211_HUMAN 40S ribosomal protein S10 OS=Homo sapiens GN=RPS10 PE=2 SV=1
+tr|B4DDF4|B4DDF4_HUMAN Calponin-2 OS=Homo sapiens GN=CNN2 PE=2 SV=1
+tr|A8MUF7|A8MUF7_HUMAN Hemoglobin subunit epsilon (Fragment) OS=Homo sapiens GN=HBE1 PE=2 SV=1
+sp|P13667|PDIA4_HUMAN Protein disulfide-isomerase A4 OS=Homo sapiens GN=PDIA4 PE=1 SV=2
+sp|Q16401|PSMD5_HUMAN 26S proteasome non-ATPase regulatory subunit 5 OS=Homo sapiens GN=PSMD5 PE=1 SV=3
+sp|P08311|CATG_HUMAN Cathepsin G OS=Homo sapiens GN=CTSG PE=1 SV=2
+sp|P14618|KPYM_HUMAN Pyruvate kinase PKM OS=Homo sapiens GN=PKM PE=1 SV=4
+sp|P02647|APOA1_HUMAN Apolipoprotein A-I OS=Homo sapiens GN=APOA1 PE=1 SV=1
+tr|F8VQY3|F8VQY3_HUMAN Keratin, type II cytoskeletal 8 (Fragment) OS=Homo sapiens GN=KRT8 PE=2 SV=1
+sp|Q9Y5B9|SP16H_HUMAN FACT complex subunit SPT16 OS=Homo sapiens GN=SUPT16H PE=1 SV=1
+tr|H7C1J8|H7C1J8_HUMAN Heterogeneous nuclear ribonucleoprotein A3 (Fragment) OS=Homo sapiens GN=HNRNPA3 PE=2 SV=1
+tr|J3KSZ0|J3KSZ0_HUMAN Eukaryotic initiation factor 4A-I (Fragment) OS=Homo sapiens GN=EIF4A1 PE=4 SV=1
+tr|G3V3R6|G3V3R6_HUMAN Galectin-3 OS=Homo sapiens GN=LGALS3 PE=2 SV=1
+tr|D6RCE2|D6RCE2_HUMAN Tetratricopeptide repeat protein 37 (Fragment) OS=Homo sapiens GN=TTC37 PE=2 SV=1
+tr|K7EML9|K7EML9_HUMAN Thioredoxin-like protein 1 (Fragment) OS=Homo sapiens GN=TXNL1 PE=2 SV=1
+tr|A2A3S1|A2A3S1_HUMAN Voltage-dependent anion-selective channel protein 2 (Fragment) OS=Homo sapiens GN=VDAC2 PE=2 SV=1
+tr|E9PBW4|E9PBW4_HUMAN Hemoglobin subunit gamma-2 OS=Homo sapiens GN=HBG2 PE=2 SV=1
+tr|E9PC84|E9PC84_HUMAN Tenascin OS=Homo sapiens GN=TNC PE=2 SV=1
+tr|G3V2H3|G3V2H3_HUMAN Purine nucleoside phosphorylase (Fragment) OS=Homo sapiens GN=PNP PE=2 SV=1
+sp|P11766|ADHX_HUMAN Alcohol dehydrogenase class-3 OS=Homo sapiens GN=ADH5 PE=1 SV=4
+sp|P13796|PLSL_HUMAN Plastin-2 OS=Homo sapiens GN=LCP1 PE=1 SV=6
+tr|E7ETM5|E7ETM5_HUMAN Vitamin K epoxide reductase complex subunit 1-like protein 1 OS=Homo sapiens GN=VKORC1L1 PE=2 SV=1
+tr|H0YKK6|H0YKK6_HUMAN Proteasome activator complex subunit 1 OS=Homo sapiens GN=PSME1 PE=2 SV=1
+tr|A8MW50|A8MW50_HUMAN L-lactate dehydrogenase (Fragment) OS=Homo sapiens GN=LDHB PE=2 SV=1
+tr|F5GX77|F5GX77_HUMAN tRNA methyltransferase 112 homolog OS=Homo sapiens GN=TRMT112 PE=2 SV=1
+tr|E7EQR6|E7EQR6_HUMAN T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=2 SV=1
+tr|B4E1Z4|B4E1Z4_HUMAN Complement factor B OS=Homo sapiens GN=CFB PE=2 SV=1
+tr|F5GZL7|F5GZL7_HUMAN Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5 OS=Homo sapiens GN=MACF1 PE=2 SV=1
+tr|M0R0I5|M0R0I5_HUMAN Far upstream element-binding protein 2 (Fragment) OS=Homo sapiens GN=KHSRP PE=4 SV=1
+tr|B8ZZL6|B8ZZL6_HUMAN Condensin complex subunit 3 (Fragment) OS=Homo sapiens GN=CAPG PE=2 SV=1
+sp|P09382|LEG1_HUMAN Galectin-1 OS=Homo sapiens GN=LGALS1 PE=1 SV=2
+sp|O15120|PLCB_HUMAN 1-acyl-sn-glycerol-3-phosphate acyltransferase beta OS=Homo sapiens GN=AGPAT2 PE=1 SV=1
+sp|P14780|MMP9_HUMAN Matrix metalloproteinase-9 OS=Homo sapiens GN=MMP9 PE=1 SV=3
+sp|Q6NUK1|SCMC1_HUMAN Calcium-binding mitochondrial carrier protein SCaMC-1 OS=Homo sapiens GN=SLC25A24 PE=1 SV=2
+sp|O14880|MGST3_HUMAN Microsomal glutathione S-transferase 3 OS=Homo sapiens GN=MGST3 PE=1 SV=1
+sp|P08603|CFAH_HUMAN Complement factor H OS=Homo sapiens GN=CFH PE=1 SV=4
+tr|E9PIM9|E9PIM9_HUMAN Ribonuclease H1 (Fragment) OS=Homo sapiens GN=RNH1 PE=2 SV=1
+tr|J3KRR2|J3KRR2_HUMAN Proteasome subunit beta type-3 OS=Homo sapiens GN=PSMB3 PE=2 SV=1
+tr|B0AZS6|B0AZS6_HUMAN 14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=2 SV=1
+sp|P01031|CO5_HUMAN Complement C5 OS=Homo sapiens GN=C5 PE=1 SV=4
+tr|B4DR52|B4DR52_HUMAN Histone H2B OS=Homo sapiens GN=HIST2H2BF PE=2 SV=1
+tr|A2A274|A2A274_HUMAN Aconitate hydratase, mitochondrial OS=Homo sapiens GN=ACO2 PE=2 SV=1
+sp|Q16363|LAMA4_HUMAN Laminin subunit alpha-4 OS=Homo sapiens GN=LAMA4 PE=1 SV=4
+tr|F2Z393|F2Z393_HUMAN Transaldolase OS=Homo sapiens GN=TALDO1 PE=2 SV=1
+tr|J3KTJ1|J3KTJ1_HUMAN Myosin regulatory light chain 12A (Fragment) OS=Homo sapiens GN=MYL12A PE=2 SV=1
+tr|E9PKL7|E9PKL7_HUMAN Ras-related protein Rab-2A OS=Homo sapiens GN=RAB2A PE=2 SV=1
+tr|K7EQD3|K7EQD3_HUMAN Cytochrome c oxidase subunit 6B1 OS=Homo sapiens GN=COX6B1 PE=2 SV=1
+tr|E9PJF7|E9PJF7_HUMAN Translationally-controlled tumor protein (Fragment) OS=Homo sapiens GN=TPT1 PE=2 SV=1
+tr|B7Z4L4|B7Z4L4_HUMAN Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens GN=RPN1 PE=2 SV=1
+tr|B5MC07|B5MC07_HUMAN Anterior gradient protein 2 homolog OS=Homo sapiens GN=AGR2 PE=2 SV=1
+sp|Q13043|STK4_HUMAN Serine/threonine-protein kinase 4 OS=Homo sapiens GN=STK4 PE=1 SV=2
+tr|C9JM50|C9JM50_HUMAN Keratin, type I cytoskeletal 19 (Fragment) OS=Homo sapiens GN=KRT19 PE=2 SV=1
+sp|Q9Y6R7|FCGBP_HUMAN IgGFc-binding protein OS=Homo sapiens GN=FCGBP PE=1 SV=3
+sp|P62847|RS24_HUMAN 40S ribosomal protein S24 OS=Homo sapiens GN=RPS24 PE=1 SV=1
+tr|H0YL33|H0YL33_HUMAN Annexin (Fragment) OS=Homo sapiens GN=ANXA2 PE=2 SV=1
+tr|B4DG50|B4DG50_HUMAN F-actin-capping protein subunit alpha-2 OS=Homo sapiens GN=CAPZA2 PE=2 SV=1
+tr|A6NKB8|A6NKB8_HUMAN Aminopeptidase B OS=Homo sapiens GN=RNPEP PE=2 SV=1
+sp|A5A3E0|POTEF_HUMAN POTE ankyrin domain family member F OS=Homo sapiens GN=POTEF PE=1 SV=2
+tr|B4DJC3|B4DJC3_HUMAN Histone H2A OS=Homo sapiens GN=H2AFY PE=2 SV=1
+sp|P07814|SYEP_HUMAN Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens GN=EPRS PE=1 SV=5
+sp|P35900|K1C20_HUMAN Keratin, type I cytoskeletal 20 OS=Homo sapiens GN=KRT20 PE=1 SV=1
+tr|F8W7G7|F8W7G7_HUMAN Ugl-Y3 OS=Homo sapiens GN=FN1 PE=2 SV=1
+tr|F8W6C1|F8W6C1_HUMAN Spectrin beta chain, non-erythrocytic 1 (Fragment) OS=Homo sapiens GN=SPTBN1 PE=2 SV=1
+tr|I3L1U9|I3L1U9_HUMAN Actin, cytoplasmic 2, N-terminally processed (Fragment) OS=Homo sapiens GN=ACTG1 PE=2 SV=1
+tr|H7BYH4|H7BYH4_HUMAN Superoxide dismutase [Cu-Zn] OS=Homo sapiens GN=SOD1 PE=2 SV=1
+tr|B0YIW6|B0YIW6_HUMAN Archain 1, isoform CRA_a OS=Homo sapiens GN=ARCN1 PE=2 SV=1
+sp|P53999|TCP4_HUMAN Activated RNA polymerase II transcriptional coactivator p15 OS=Homo sapiens GN=SUB1 PE=1 SV=3
+tr|B4DG89|B4DG89_HUMAN Nuclear protein localization protein 4 homolog OS=Homo sapiens GN=NPLOC4 PE=2 SV=1
+tr|H0Y8Z9|H0Y8Z9_HUMAN Acyl-CoA dehydrogenase family member 9, mitochondrial (Fragment) OS=Homo sapiens GN=ACAD9 PE=2 SV=1
+tr|E5RJ41|E5RJ41_HUMAN Catenin alpha-1 (Fragment) OS=Homo sapiens GN=CTNNA1 PE=2 SV=1
+tr|B3KXW5|B3KXW5_HUMAN AP-1 complex subunit gamma-1 OS=Homo sapiens GN=AP1G1 PE=2 SV=1
+tr|F8VZY9|F8VZY9_HUMAN Keratin, type I cytoskeletal 18 OS=Homo sapiens GN=KRT18 PE=2 SV=1
+sp|P30049|ATPD_HUMAN ATP synthase subunit delta, mitochondrial OS=Homo sapiens GN=ATP5D PE=1 SV=2
+tr|E7ENL6|E7ENL6_HUMAN Collagen alpha-3(VI) chain OS=Homo sapiens GN=COL6A3 PE=2 SV=1
+sp|P04040|CATA_HUMAN Catalase OS=Homo sapiens GN=CAT PE=1 SV=3
+tr|B4DDF9|B4DDF9_HUMAN Annexin OS=Homo sapiens GN=ANXA4 PE=2 SV=1
+tr|M0R210|M0R210_HUMAN 40S ribosomal protein S16 OS=Homo sapiens GN=RPS16 PE=3 SV=1
+tr|E7EUY0|E7EUY0_HUMAN DNA-dependent protein kinase catalytic subunit OS=Homo sapiens GN=PRKDC PE=2 SV=1
+tr|F8VP67|F8VP67_HUMAN Keratin, type II cytoskeletal 8 (Fragment) OS=Homo sapiens GN=KRT8 PE=2 SV=1
+sp|A6NHL2|TBAL3_HUMAN Tubulin alpha chain-like 3 OS=Homo sapiens GN=TUBAL3 PE=1 SV=2
+tr|E7EQ61|E7EQ61_HUMAN Ubiquitin-like modifier-activating enzyme 5 OS=Homo sapiens GN=UBA5 PE=2 SV=1
+tr|A6NG51|A6NG51_HUMAN Spectrin alpha chain, non-erythrocytic 1 OS=Homo sapiens GN=SPTAN1 PE=2 SV=2
+sp|P10599|THIO_HUMAN Thioredoxin OS=Homo sapiens GN=TXN PE=1 SV=3
+sp|Q9Y2T2|AP3M1_HUMAN AP-3 complex subunit mu-1 OS=Homo sapiens GN=AP3M1 PE=1 SV=1
+sp|Q13642|FHL1_HUMAN Four and a half LIM domains protein 1 OS=Homo sapiens GN=FHL1 PE=1 SV=4
+tr|C9J592|C9J592_HUMAN Ras-related protein Rab-7a (Fragment) OS=Homo sapiens GN=RAB7A PE=2 SV=1
+sp|P41250|SYG_HUMAN Glycine--tRNA ligase OS=Homo sapiens GN=GARS PE=1 SV=3
+tr|A8MVD5|A8MVD5_HUMAN Tubulin-folding cofactor B OS=Homo sapiens GN=TBCB PE=2 SV=1
+sp|Q7L576|CYFP1_HUMAN Cytoplasmic FMR1-interacting protein 1 OS=Homo sapiens GN=CYFIP1 PE=1 SV=1
+sp|O95831|AIFM1_HUMAN Apoptosis-inducing factor 1, mitochondrial OS=Homo sapiens GN=AIFM1 PE=1 SV=1
+sp|Q9BVC6|TM109_HUMAN Transmembrane protein 109 OS=Homo sapiens GN=TMEM109 PE=1 SV=1
+tr|C9JDU9|C9JDU9_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 OS=Homo sapiens GN=B3GNT6 PE=2 SV=1
+tr|E7ESH4|E7ESH4_HUMAN 60 kDa heat shock protein, mitochondrial (Fragment) OS=Homo sapiens GN=HSPD1 PE=2 SV=1
+tr|F5H608|F5H608_HUMAN ATP synthase subunit d, mitochondrial OS=Homo sapiens GN=ATP5H PE=2 SV=2
+sp|O95994|AGR2_HUMAN Anterior gradient protein 2 homolog OS=Homo sapiens GN=AGR2 PE=1 SV=1
+tr|B8ZZF6|B8ZZF6_HUMAN Inositol polyphosphate 1-phosphatase (Fragment) OS=Homo sapiens GN=INPP1 PE=2 SV=1
+tr|J3KSJ8|J3KSJ8_HUMAN Protein phosphatase 1 regulatory subunit 1B (Fragment) OS=Homo sapiens GN=PPP1R1B PE=2 SV=1
+sp|P09429|HMGB1_HUMAN High mobility group protein B1 OS=Homo sapiens GN=HMGB1 PE=1 SV=3
+sp|P35237|SPB6_HUMAN Serpin B6 OS=Homo sapiens GN=SERPINB6 PE=1 SV=3
+sp|Q9BSE5|SPEB_HUMAN Agmatinase, mitochondrial OS=Homo sapiens GN=AGMAT PE=1 SV=2
+tr|H7C0V0|H7C0V0_HUMAN Uncharacterized protein C2orf47, mitochondrial (Fragment) OS=Homo sapiens GN=C2orf47 PE=4 SV=1
+sp|O43707|ACTN4_HUMAN Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=1 SV=2
+tr|E5RFJ8|E5RFJ8_HUMAN DNA replication licensing factor MCM4 (Fragment) OS=Homo sapiens GN=MCM4 PE=2 SV=1
+sp|P02042|HBD_HUMAN Hemoglobin subunit delta OS=Homo sapiens GN=HBD PE=1 SV=2
+tr|M0R027|M0R027_HUMAN Napsin-A (Fragment) OS=Homo sapiens GN=NAPA PE=4 SV=1
+tr|A6NKP0|A6NKP0_HUMAN Catenin alpha-3 OS=Homo sapiens GN=CTNNA3 PE=2 SV=1
+tr|B7Z2F6|B7Z2F6_HUMAN Scaffold attachment factor B1 OS=Homo sapiens GN=SAFB PE=2 SV=1
+tr|E9PI65|E9PI65_HUMAN Heat shock cognate 71 kDa protein (Fragment) OS=Homo sapiens GN=HSPA8 PE=2 SV=1
+tr|E7ENY8|E7ENY8_HUMAN Collagen alpha-1(III) chain OS=Homo sapiens GN=COL3A1 PE=1 SV=1
+tr|F5GZ59|F5GZ59_HUMAN Uncharacterized protein OS=Homo sapiens GN=HLA-DRA PE=4 SV=1
+sp|P06733|ENOA_HUMAN Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2
+tr|C9J5S7|C9J5S7_HUMAN Peptidyl-prolyl cis-trans isomerase OS=Homo sapiens GN=PPIA PE=2 SV=1
+tr|J3KRL0|J3KRL0_HUMAN Unconventional myosin-Id OS=Homo sapiens GN=MYO1D PE=2 SV=1
+sp|Q8WXX5|DNJC9_HUMAN DnaJ homolog subfamily C member 9 OS=Homo sapiens GN=DNAJC9 PE=1 SV=1
+sp|P31350|RIR2_HUMAN Ribonucleoside-diphosphate reductase subunit M2 OS=Homo sapiens GN=RRM2 PE=1 SV=1
+sp|P62424|RL7A_HUMAN 60S ribosomal protein L7a OS=Homo sapiens GN=RPL7A PE=1 SV=2
+sp|Q9HAV4|XPO5_HUMAN Exportin-5 OS=Homo sapiens GN=XPO5 PE=1 SV=1
+tr|B4E2W0|B4E2W0_HUMAN 3-ketoacyl-CoA thiolase OS=Homo sapiens GN=HADHB PE=2 SV=1
+tr|B4E022|B4E022_HUMAN Transketolase OS=Homo sapiens GN=TKT PE=2 SV=1
+sp|P00966|ASSY_HUMAN Argininosuccinate synthase OS=Homo sapiens GN=ASS1 PE=1 SV=2
+tr|E7EUT5|E7EUT5_HUMAN Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens GN=GAPDH PE=2 SV=1
+tr|A6NGH2|A6NGH2_HUMAN Sodium/potassium-transporting ATPase subunit beta-1 OS=Homo sapiens GN=ATP1B1 PE=2 SV=3
+tr|B4DLC0|B4DLC0_HUMAN Poly(rC)-binding protein 2 OS=Homo sapiens GN=PCBP2 PE=2 SV=1
+sp|Q8NE86|MCU_HUMAN Calcium uniporter protein, mitochondrial OS=Homo sapiens GN=MCU PE=1 SV=1
+tr|J3QLI0|J3QLI0_HUMAN Beta-2-glycoprotein 1 (Fragment) OS=Homo sapiens GN=APOH PE=2 SV=1
+tr|B7Z7E9|B7Z7E9_HUMAN Aspartate aminotransferase OS=Homo sapiens GN=GOT1 PE=2 SV=1
+tr|B8ZZL8|B8ZZL8_HUMAN 10 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPE1 PE=2 SV=1
+sp|P53365|ARFP2_HUMAN Arfaptin-2 OS=Homo sapiens GN=ARFIP2 PE=1 SV=1
+tr|E9PP21|E9PP21_HUMAN Cysteine and glycine-rich protein 1 OS=Homo sapiens GN=CSRP1 PE=2 SV=1
+tr|F8W7T0|F8W7T0_HUMAN Testin (Fragment) OS=Homo sapiens GN=TES PE=2 SV=1
+sp|P11182|ODB2_HUMAN Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial OS=Homo sapiens GN=DBT PE=1 SV=3
+sp|Q53H82|LACB2_HUMAN Beta-lactamase-like protein 2 OS=Homo sapiens GN=LACTB2 PE=1 SV=2
+tr|B1AHC8|B1AHC8_HUMAN X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa), isoform CRA_b OS=Homo sapiens GN=XRCC6 PE=2 SV=1
+sp|Q8WXI9|P66B_HUMAN Transcriptional repressor p66-beta OS=Homo sapiens GN=GATAD2B PE=1 SV=1
+tr|E7ETK0|E7ETK0_HUMAN 40S ribosomal protein S24 OS=Homo sapiens GN=RPS24 PE=2 SV=1
+tr|K7EQA1|K7EQA1_HUMAN Programmed cell death protein 5 OS=Homo sapiens GN=PDCD5 PE=2 SV=1
+sp|Q9NP77|SSU72_HUMAN RNA polymerase II subunit A C-terminal domain phosphatase SSU72 OS=Homo sapiens GN=SSU72 PE=1 SV=1
+sp|P01570|IFN14_HUMAN Interferon alpha-14 OS=Homo sapiens GN=IFNA14 PE=1 SV=3
+tr|K7EKJ9|K7EKJ9_HUMAN Interleukin enhancer-binding factor 3 (Fragment) OS=Homo sapiens GN=ILF3 PE=2 SV=1
+sp|P45880|VDAC2_HUMAN Voltage-dependent anion-selective channel protein 2 OS=Homo sapiens GN=VDAC2 PE=1 SV=2
+tr|E7EQ29|E7EQ29_HUMAN Beta-galactosidase OS=Homo sapiens GN=GLB1 PE=2 SV=1
+tr|H0Y5F3|H0Y5F3_HUMAN Filamin-A (Fragment) OS=Homo sapiens GN=FLNA PE=4 SV=1
+sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1
+sp|P48047|ATPO_HUMAN ATP synthase subunit O, mitochondrial OS=Homo sapiens GN=ATP5O PE=1 SV=1
+tr|E9PGT3|E9PGT3_HUMAN Ribosomal protein S6 kinase OS=Homo sapiens GN=RPS6KA1 PE=2 SV=1
+sp|Q8NFQ8|TOIP2_HUMAN Torsin-1A-interacting protein 2 OS=Homo sapiens GN=TOR1AIP2 PE=1 SV=1
+sp|Q9NYU1|UGGG2_HUMAN UDP-glucose:glycoprotein glucosyltransferase 2 OS=Homo sapiens GN=UGGT2 PE=1 SV=4
+tr|H0YGH6|H0YGH6_HUMAN Alpha-2-macroglobulin (Fragment) OS=Homo sapiens GN=A2M PE=4 SV=1
+tr|M0QYQ7|M0QYQ7_HUMAN Heterogeneous nuclear ribonucleoprotein M (Fragment) OS=Homo sapiens GN=HNRNPM PE=4 SV=1
+sp|Q6P2Q9|PRP8_HUMAN Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens GN=PRPF8 PE=1 SV=2
+tr|H3BNF1|H3BNF1_HUMAN Ceroid-lipofuscinosis neuronal protein 6 OS=Homo sapiens GN=CLN6 PE=2 SV=1
+tr|D6R909|D6R909_HUMAN Guanine nucleotide-binding protein subunit beta-2-like 1 OS=Homo sapiens GN=GNB2L1 PE=2 SV=1
+tr|F5H5Y3|F5H5Y3_HUMAN Signal recognition particle subunit SRP68 OS=Homo sapiens GN=SRP68 PE=2 SV=1
+sp|Q8TE67|ES8L3_HUMAN Epidermal growth factor receptor kinase substrate 8-like protein 3 OS=Homo sapiens GN=EPS8L3 PE=1 SV=2
+tr|Q5VZU1|Q5VZU1_HUMAN RCL1 OS=Homo sapiens GN=RCL1 PE=2 SV=1
+tr|B5MCP9|B5MCP9_HUMAN 40S ribosomal protein S7 OS=Homo sapiens GN=RPS7 PE=2 SV=1
+tr|K7EMD6|K7EMD6_HUMAN Small glutamine-rich tetratricopeptide repeat-containing protein alpha (Fragment) OS=Homo sapiens GN=SGTA PE=2 SV=1
+tr|F8W0P7|F8W0P7_HUMAN ATP synthase subunit beta, mitochondrial (Fragment) OS=Homo sapiens GN=ATP5B PE=2 SV=1
+sp|P05023|AT1A1_HUMAN Sodium/potassium-transporting ATPase subunit alpha-1 OS=Homo sapiens GN=ATP1A1 PE=1 SV=1
+tr|E9PBJ4|E9PBJ4_HUMAN Tubulin beta chain OS=Homo sapiens GN=TUBB PE=2 SV=1
+tr|J9JID7|J9JID7_HUMAN Lamin B2, isoform CRA_a OS=Homo sapiens GN=LMNB2 PE=2 SV=1
+sp|Q9NVP1|DDX18_HUMAN ATP-dependent RNA helicase DDX18 OS=Homo sapiens GN=DDX18 PE=1 SV=2
+tr|B7WNR0|B7WNR0_HUMAN Serum albumin OS=Homo sapiens GN=ALB PE=2 SV=1
+tr|H0Y7K8|H0Y7K8_HUMAN Structural maintenance of chromosomes protein 1A (Fragment) OS=Homo sapiens GN=SMC1A PE=4 SV=1
+tr|B4DFG0|B4DFG0_HUMAN Protein DEK OS=Homo sapiens GN=DEK PE=2 SV=1
+tr|A6NE09|A6NE09_HUMAN 40S ribosomal protein SA OS=Homo sapiens GN=RPSAP58 PE=2 SV=1
+tr|H0YFG2|H0YFG2_HUMAN Peptidyl-prolyl cis-trans isomerase FKBP4, N-terminally processed (Fragment) OS=Homo sapiens GN=FKBP4 PE=4 SV=1
+tr|C9J634|C9J634_HUMAN Pyruvate dehydrogenase E1 component subunit beta, mitochondrial OS=Homo sapiens GN=PDHB PE=2 SV=1
+sp|Q7KZF4|SND1_HUMAN Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens GN=SND1 PE=1 SV=1
+sp|P01763|HV302_HUMAN Ig heavy chain V-III region WEA OS=Homo sapiens PE=1 SV=1
+tr|F8VR77|F8VR77_HUMAN Proliferation-associated protein 2G4 OS=Homo sapiens GN=PA2G4 PE=2 SV=1
+sp|P30044|PRDX5_HUMAN Peroxiredoxin-5, mitochondrial OS=Homo sapiens GN=PRDX5 PE=1 SV=4
+tr|F5GZS6|F5GZS6_HUMAN 4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=2 SV=1
+tr|F5H2F4|F5H2F4_HUMAN C-1-tetrahydrofolate synthase, cytoplasmic OS=Homo sapiens GN=MTHFD1 PE=2 SV=1
+tr|K7ERG4|K7ERG4_HUMAN Small nuclear ribonucleoprotein Sm D2 OS=Homo sapiens GN=SNRPD2 PE=2 SV=1
+tr|H0YCU9|H0YCU9_HUMAN Transgelin (Fragment) OS=Homo sapiens GN=TAGLN PE=4 SV=1
+tr|K7EK45|K7EK45_HUMAN Polypyrimidine tract-binding protein 1 (Fragment) OS=Homo sapiens GN=PTBP1 PE=4 SV=1
+sp|Q06210|GFPT1_HUMAN Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1 OS=Homo sapiens GN=GFPT1 PE=1 SV=3
+tr|H3BQK6|H3BQK6_HUMAN Major vault protein (Fragment) OS=Homo sapiens GN=MVP PE=2 SV=1
+sp|Q9BV57|MTND_HUMAN 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase OS=Homo sapiens GN=ADI1 PE=1 SV=1
+tr|J3QRN6|J3QRN6_HUMAN Unconventional myosin-Id OS=Homo sapiens GN=MYO1D PE=2 SV=1
+tr|F8W6L6|F8W6L6_HUMAN Myosin-10 OS=Homo sapiens GN=MYH10 PE=2 SV=1
+sp|P05109|S10A8_HUMAN Protein S100-A8 OS=Homo sapiens GN=S100A8 PE=1 SV=1
+tr|B8ZZ54|B8ZZ54_HUMAN 10 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPE1 PE=2 SV=1
+tr|B7Z2R2|B7Z2R2_HUMAN Cytochrome b-c1 complex subunit 7 OS=Homo sapiens GN=UQCRB PE=2 SV=1
+sp|Q00610|CLH1_HUMAN Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC PE=1 SV=5
+tr|F5H1U3|F5H1U3_HUMAN Peptidyl-prolyl cis-trans isomerase (Fragment) OS=Homo sapiens GN=FKBP4 PE=2 SV=1
+tr|D6R9I9|D6R9I9_HUMAN ATP-binding cassette sub-family E member 1 OS=Homo sapiens GN=ABCE1 PE=2 SV=1
+tr|K7EME2|K7EME2_HUMAN Transcriptional adapter 2-alpha (Fragment) OS=Homo sapiens GN=TADA2A PE=2 SV=1
+tr|A6NJ11|A6NJ11_HUMAN Ubiquitin fusion degradation protein 1 homolog OS=Homo sapiens GN=UFD1L PE=2 SV=1
+tr|K7EM90|K7EM90_HUMAN Enolase (Fragment) OS=Homo sapiens GN=ENO1 PE=2 SV=1
+tr|E5KLJ5|E5KLJ5_HUMAN Dynamin-like 120 kDa protein, mitochondrial OS=Homo sapiens GN=OPA1 PE=2 SV=1
+tr|F6XAQ5|F6XAQ5_HUMAN Proteasome-associated protein ECM29 homolog (Fragment) OS=Homo sapiens GN=KIAA0368 PE=4 SV=1
+tr|E7EUU4|E7EUU4_HUMAN Eukaryotic translation initiation factor 4 gamma 1 OS=Homo sapiens GN=EIF4G1 PE=2 SV=1
+tr|C9J9C1|C9J9C1_HUMAN Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform (Fragment) OS=Homo sapiens GN=PPP2R1A PE=2 SV=2
+tr|K7EJ74|K7EJ74_HUMAN 116 kDa U5 small nuclear ribonucleoprotein component (Fragment) OS=Homo sapiens GN=EFTUD2 PE=4 SV=1
+sp|P49207|RL34_HUMAN 60S ribosomal protein L34 OS=Homo sapiens GN=RPL34 PE=1 SV=3
+tr|A6NL76|A6NL76_HUMAN Actin, alpha skeletal muscle OS=Homo sapiens GN=ACTA1 PE=2 SV=2
+sp|P78417|GSTO1_HUMAN Glutathione S-transferase omega-1 OS=Homo sapiens GN=GSTO1 PE=1 SV=2
+sp|Q9ULZ3|ASC_HUMAN Apoptosis-associated speck-like protein containing a CARD OS=Homo sapiens GN=PYCARD PE=1 SV=2
+tr|A6NH36|A6NH36_HUMAN 40S ribosomal protein S4, X isoform OS=Homo sapiens GN=RPS4X PE=2 SV=1
+tr|H3BNP9|H3BNP9_HUMAN Sulfide:quinone oxidoreductase, mitochondrial (Fragment) OS=Homo sapiens GN=SQRDL PE=4 SV=1
+sp|A1L0T0|ILVBL_HUMAN Acetolactate synthase-like protein OS=Homo sapiens GN=ILVBL PE=1 SV=2
+sp|Q9C029|TRIM7_HUMAN Tripartite motif-containing protein 7 OS=Homo sapiens GN=TRIM7 PE=1 SV=2
+sp|Q86VP6|CAND1_HUMAN Cullin-associated NEDD8-dissociated protein 1 OS=Homo sapiens GN=CAND1 PE=1 SV=2
+tr|K7EKQ2|K7EKQ2_HUMAN Hsp90 co-chaperone Cdc37 (Fragment) OS=Homo sapiens GN=CDC37 PE=2 SV=1
+tr|M0QZ93|M0QZ93_HUMAN Galectin-4 (Fragment) OS=Homo sapiens GN=LGALS4 PE=4 SV=1
+tr|E9PD91|E9PD91_HUMAN Regulator of G-protein-signaling 9 OS=Homo sapiens GN=RGS9 PE=2 SV=3
+tr|E5RIW1|E5RIW1_HUMAN Exportin-7 (Fragment) OS=Homo sapiens GN=XPO7 PE=2 SV=2
+sp|Q92820|GGH_HUMAN Gamma-glutamyl hydrolase OS=Homo sapiens GN=GGH PE=1 SV=2
+tr|B4DER1|B4DER1_HUMAN Leucine--tRNA ligase, cytoplasmic OS=Homo sapiens GN=LARS PE=2 SV=1
+tr|C9JI87|C9JI87_HUMAN Voltage-dependent anion-selective channel protein 1 (Fragment) OS=Homo sapiens GN=VDAC1 PE=2 SV=1
+sp|P61225|RAP2B_HUMAN Ras-related protein Rap-2b OS=Homo sapiens GN=RAP2B PE=1 SV=1
+sp|Q15181|IPYR_HUMAN Inorganic pyrophosphatase OS=Homo sapiens GN=PPA1 PE=1 SV=2
+sp|P55884|EIF3B_HUMAN Eukaryotic translation initiation factor 3 subunit B OS=Homo sapiens GN=EIF3B PE=1 SV=3
+sp|Q96NG3|TTC25_HUMAN Tetratricopeptide repeat protein 25 OS=Homo sapiens GN=TTC25 PE=2 SV=2
+sp|Q14258|TRI25_HUMAN E3 ubiquitin/ISG15 ligase TRIM25 OS=Homo sapiens GN=TRIM25 PE=1 SV=2
+tr|E7ENA9|E7ENA9_HUMAN Nicastrin OS=Homo sapiens GN=NCSTN PE=2 SV=2
+tr|B3KNX7|B3KNX7_HUMAN Serine/threonine-protein kinase PAK 1 OS=Homo sapiens GN=PAK1 PE=2 SV=1
+tr|B4DMU0|B4DMU0_HUMAN Pyrroline-5-carboxylate reductase OS=Homo sapiens GN=PYCR1 PE=2 SV=1
+sp|P08727|K1C19_HUMAN Keratin, type I cytoskeletal 19 OS=Homo sapiens GN=KRT19 PE=1 SV=4
+sp|P05164|PERM_HUMAN Myeloperoxidase OS=Homo sapiens GN=MPO PE=1 SV=1
+sp|P49792|RBP2_HUMAN E3 SUMO-protein ligase RanBP2 OS=Homo sapiens GN=RANBP2 PE=1 SV=2
+sp|Q9H0R6|GATA_HUMAN Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial OS=Homo sapiens GN=QRSL1 PE=1 SV=2
+sp|P25398|RS12_HUMAN 40S ribosomal protein S12 OS=Homo sapiens GN=RPS12 PE=1 SV=3
+sp|P05787|K2C8_HUMAN Keratin, type II cytoskeletal 8 OS=Homo sapiens GN=KRT8 PE=1 SV=7
+tr|E9PDQ8|E9PDQ8_HUMAN Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial OS=Homo sapiens GN=SUCLG2 PE=2 SV=1
+sp|Q15365|PCBP1_HUMAN Poly(rC)-binding protein 1 OS=Homo sapiens GN=PCBP1 PE=1 SV=2
+tr|B1AHA8|B1AHA8_HUMAN Heme oxygenase 1 (Fragment) OS=Homo sapiens GN=HMOX1 PE=2 SV=1
+tr|K7ENY4|K7ENY4_HUMAN Ras-related protein Rab-5C (Fragment) OS=Homo sapiens GN=RAB5C PE=2 SV=1
+sp|P0C7P4|UCRIL_HUMAN Putative cytochrome b-c1 complex subunit Rieske-like protein 1 OS=Homo sapiens GN=UQCRFS1P1 PE=5 SV=1
+tr|G3V2S6|G3V2S6_HUMAN V-type proton ATPase subunit D OS=Homo sapiens GN=ATP6V1D PE=2 SV=1
+tr|B4DLW8|B4DLW8_HUMAN Probable ATP-dependent RNA helicase DDX5 OS=Homo sapiens GN=DDX5 PE=2 SV=1
+tr|G3XAI2|G3XAI2_HUMAN Laminin subunit beta-1 OS=Homo sapiens GN=LAMB1 PE=4 SV=1
+sp|P62736|ACTA_HUMAN Actin, aortic smooth muscle OS=Homo sapiens GN=ACTA2 PE=1 SV=1
+sp|Q8WWA0|ITLN1_HUMAN Intelectin-1 OS=Homo sapiens GN=ITLN1 PE=1 SV=1
+tr|E7EQB2|E7EQB2_HUMAN Kaliocin-1 (Fragment) OS=Homo sapiens GN=LTF PE=2 SV=1
+tr|H0Y6E7|H0Y6E7_HUMAN RNA-binding motif protein, X chromosome, N-terminally processed (Fragment) OS=Homo sapiens GN=RBMX PE=4 SV=2
+tr|H0YNE3|H0YNE3_HUMAN Proteasome activator complex subunit 1 OS=Homo sapiens GN=PSME1 PE=2 SV=1
+tr|E9PFR3|E9PFR3_HUMAN Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform OS=Homo sapiens GN=PPP2R5D PE=2 SV=1
+sp|P55072|TERA_HUMAN Transitional endoplasmic reticulum ATPase OS=Homo sapiens GN=VCP PE=1 SV=4
+tr|B4DZC3|B4DZC3_HUMAN 5'-3' exoribonuclease 2 OS=Homo sapiens GN=XRN2 PE=2 SV=1
+tr|E9PBJ0|E9PBJ0_HUMAN Mucin-5B OS=Homo sapiens GN=MUC5B PE=2 SV=1
+tr|G3V2B9|G3V2B9_HUMAN Short peptide from AAT (Fragment) OS=Homo sapiens GN=SERPINA1 PE=2 SV=1
+tr|G3V2J8|G3V2J8_HUMAN Heat shock protein HSP 90-alpha (Fragment) OS=Homo sapiens GN=HSP90AA1 PE=2 SV=1
+tr|J3QRS3|J3QRS3_HUMAN Myosin regulatory light chain 12A OS=Homo sapiens GN=MYL12A PE=2 SV=1
+tr|E5RFH3|E5RFH3_HUMAN 28S ribosomal protein S35, mitochondrial OS=Homo sapiens GN=MRPS28 PE=2 SV=1
+tr|E7EN95|E7EN95_HUMAN Filamin-B OS=Homo sapiens GN=FLNB PE=2 SV=1
+sp|Q15149|PLEC_HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3
+tr|B4DSU6|B4DSU6_HUMAN Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens GN=HNRNPC PE=2 SV=1
+tr|E7EPL9|E7EPL9_HUMAN Peroxisomal multifunctional enzyme type 2 OS=Homo sapiens GN=HSD17B4 PE=2 SV=1
+sp|Q9H3P7|GCP60_HUMAN Golgi resident protein GCP60 OS=Homo sapiens GN=ACBD3 PE=1 SV=4
+tr|B4DKG8|B4DKG8_HUMAN Exosome component 10 OS=Homo sapiens GN=EXOSC10 PE=2 SV=1
+sp|P23786|CPT2_HUMAN Carnitine O-palmitoyltransferase 2, mitochondrial OS=Homo sapiens GN=CPT2 PE=1 SV=2
+tr|C9JCK5|C9JCK5_HUMAN Proteasome subunit alpha type-2 OS=Homo sapiens GN=PSMA2 PE=2 SV=1
+tr|C9JSQ1|C9JSQ1_HUMAN Creatine kinase U-type, mitochondrial (Fragment) OS=Homo sapiens GN=CKMT1B PE=2 SV=1
+tr|C9J1H7|C9J1H7_HUMAN Nucleolin (Fragment) OS=Homo sapiens GN=NCL PE=2 SV=1
+tr|C9K0U8|C9K0U8_HUMAN Single-stranded DNA-binding protein (Fragment) OS=Homo sapiens GN=SSBP1 PE=2 SV=1
+tr|H7C086|H7C086_HUMAN ATP synthase subunit O, mitochondrial (Fragment) OS=Homo sapiens GN=ATP5O PE=4 SV=1
+sp|O60506|HNRPQ_HUMAN Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens GN=SYNCRIP PE=1 SV=2
+tr|F8VZ49|F8VZ49_HUMAN Heterogeneous nuclear ribonucleoprotein A1 (Fragment) OS=Homo sapiens GN=HNRNPA1 PE=2 SV=1
+sp|Q8WUH6|CL023_HUMAN UPF0444 transmembrane protein C12orf23 OS=Homo sapiens GN=C12orf23 PE=1 SV=1
+sp|P07305|H10_HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3
+tr|B4DQJ1|B4DQJ1_HUMAN U5 small nuclear ribonucleoprotein 40 kDa protein OS=Homo sapiens GN=SNRNP40 PE=2 SV=1
+tr|C9J6W7|C9J6W7_HUMAN Creatine kinase U-type, mitochondrial (Fragment) OS=Homo sapiens GN=CKMT1B PE=2 SV=1
+sp|P68431|H31_HUMAN Histone H3.1 OS=Homo sapiens GN=HIST1H3A PE=1 SV=2
+tr|E9PK47|E9PK47_HUMAN Phosphorylase OS=Homo sapiens GN=PYGL PE=2 SV=1
+sp|P15924|DESP_HUMAN Desmoplakin OS=Homo sapiens GN=DSP PE=1 SV=3
+sp|O95373|IPO7_HUMAN Importin-7 OS=Homo sapiens GN=IPO7 PE=1 SV=1
+sp|Q53GQ0|DHB12_HUMAN Estradiol 17-beta-dehydrogenase 12 OS=Homo sapiens GN=HSD17B12 PE=1 SV=2
+tr|F8WB82|F8WB82_HUMAN Aldose 1-epimerase OS=Homo sapiens GN=GALM PE=2 SV=1
+sp|P23246|SFPQ_HUMAN Splicing factor, proline- and glutamine-rich OS=Homo sapiens GN=SFPQ PE=1 SV=2
+sp|O43143|DHX15_HUMAN Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15 OS=Homo sapiens GN=DHX15 PE=1 SV=2
+sp|P21796|VDAC1_HUMAN Voltage-dependent anion-selective channel protein 1 OS=Homo sapiens GN=VDAC1 PE=1 SV=2
+tr|H3BQ34|H3BQ34_HUMAN Pyruvate kinase OS=Homo sapiens GN=PKM PE=2 SV=1
+tr|J3QLR8|J3QLR8_HUMAN 28S ribosomal protein S23, mitochondrial OS=Homo sapiens GN=MRPS23 PE=2 SV=1
+tr|H0YM31|H0YM31_HUMAN Phosphoenolpyruvate carboxykinase [GTP], mitochondrial OS=Homo sapiens GN=PCK2 PE=2 SV=1
+sp|Q9BS26|ERP44_HUMAN Endoplasmic reticulum resident protein 44 OS=Homo sapiens GN=ERP44 PE=1 SV=1
+tr|M0QYG1|M0QYG1_HUMAN Far upstream element-binding protein 2 (Fragment) OS=Homo sapiens GN=KHSRP PE=4 SV=1
+tr|K7ENP3|K7ENP3_HUMAN ATP synthase subunit alpha OS=Homo sapiens GN=ATP5A1 PE=2 SV=1
+sp|P43490|NAMPT_HUMAN Nicotinamide phosphoribosyltransferase OS=Homo sapiens GN=NAMPT PE=1 SV=1
+tr|B4DHG0|B4DHG0_HUMAN Dihydrolipoyl dehydrogenase, mitochondrial OS=Homo sapiens GN=DLD PE=2 SV=1
+tr|H0Y8Z1|H0Y8Z1_HUMAN Integrator complex subunit 3 (Fragment) OS=Homo sapiens GN=INTS3 PE=4 SV=1
+tr|H0YJW3|H0YJW3_HUMAN Alpha-actinin-1 (Fragment) OS=Homo sapiens GN=ACTN1 PE=4 SV=1
+sp|Q7Z2Z2|ETUD1_HUMAN Elongation factor Tu GTP-binding domain-containing protein 1 OS=Homo sapiens GN=EFTUD1 PE=1 SV=2
+tr|B4DJV2|B4DJV2_HUMAN Citrate synthase OS=Homo sapiens GN=CS PE=2 SV=1
+tr|D6RGG3|D6RGG3_HUMAN Collagen alpha-1(XII) chain OS=Homo sapiens GN=COL12A1 PE=2 SV=1
+sp|P07437|TBB5_HUMAN Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2
+tr|A6NC48|A6NC48_HUMAN ADP-ribosyl cyclase 2 OS=Homo sapiens GN=BST1 PE=2 SV=1
+sp|Q92979|NEP1_HUMAN Ribosomal RNA small subunit methyltransferase NEP1 OS=Homo sapiens GN=EMG1 PE=1 SV=4
+tr|H0YI90|H0YI90_HUMAN Protein DDI1 homolog 2 (Fragment) OS=Homo sapiens GN=DDI2 PE=4 SV=1
+tr|B4E3P0|B4E3P0_HUMAN ATP-citrate synthase OS=Homo sapiens GN=ACLY PE=2 SV=1
+tr|E7ERK6|E7ERK6_HUMAN Clusterin beta chain (Fragment) OS=Homo sapiens GN=CLU PE=2 SV=1
+tr|E9PIG2|E9PIG2_HUMAN Serpin H1 (Fragment) OS=Homo sapiens GN=SERPINH1 PE=2 SV=2
+sp|Q9Y561|LRP12_HUMAN Low-density lipoprotein receptor-related protein 12 OS=Homo sapiens GN=LRP12 PE=1 SV=1
+tr|E9PIN7|E9PIN7_HUMAN Thioredoxin-related transmembrane protein 4 (Fragment) OS=Homo sapiens GN=TMX4 PE=2 SV=1
+tr|E9PHF0|E9PHF0_HUMAN Filamin-A OS=Homo sapiens GN=FLNA PE=2 SV=2
+tr|B1AL79|B1AL79_HUMAN Protein kinase N2, isoform CRA_b OS=Homo sapiens GN=PKN2 PE=2 SV=1
+tr|H0YFD6|H0YFD6_HUMAN Trifunctional enzyme subunit alpha, mitochondrial (Fragment) OS=Homo sapiens GN=HADHA PE=2 SV=1
+tr|C9JRP8|C9JRP8_HUMAN Spectrin beta chain, non-erythrocytic 4 OS=Homo sapiens GN=SPTBN4 PE=2 SV=1
+tr|C9J0M4|C9J0M4_HUMAN B-cell receptor-associated protein 31 (Fragment) OS=Homo sapiens GN=BCAP31 PE=2 SV=1
+sp|Q9Y223|GLCNE_HUMAN Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Homo sapiens GN=GNE PE=1 SV=1
+sp|P10809|CH60_HUMAN 60 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPD1 PE=1 SV=2
+sp|Q9UL25|RAB21_HUMAN Ras-related protein Rab-21 OS=Homo sapiens GN=RAB21 PE=1 SV=3
+sp|P42704|LPPRC_HUMAN Leucine-rich PPR motif-containing protein, mitochondrial OS=Homo sapiens GN=LRPPRC PE=1 SV=3
+tr|A8MY76|A8MY76_HUMAN Nucleolar protein 9 OS=Homo sapiens GN=NOP9 PE=2 SV=1
+sp|P04114|APOB_HUMAN Apolipoprotein B-100 OS=Homo sapiens GN=APOB PE=1 SV=2
+sp|Q6NZI2|PTRF_HUMAN Polymerase I and transcript release factor OS=Homo sapiens GN=PTRF PE=1 SV=1
+sp|P54136|SYRC_HUMAN Arginine--tRNA ligase, cytoplasmic OS=Homo sapiens GN=RARS PE=1 SV=2
+tr|E7EUV1|E7EUV1_HUMAN Mucin-2 OS=Homo sapiens GN=MUC2 PE=2 SV=1
+tr|C9J1E7|C9J1E7_HUMAN AP-1 complex subunit beta-1 (Fragment) OS=Homo sapiens GN=AP1B1 PE=2 SV=1
+tr|H7C1V0|H7C1V0_HUMAN Cathepsin D light chain (Fragment) OS=Homo sapiens GN=CTSD PE=2 SV=1
+tr|E9PL37|E9PL37_HUMAN Calpain-1 catalytic subunit (Fragment) OS=Homo sapiens GN=CAPN1 PE=2 SV=1
+tr|A8MUB1|A8MUB1_HUMAN Tubulin alpha-4A chain OS=Homo sapiens GN=TUBA4A PE=2 SV=1
+tr|C9JGJ2|C9JGJ2_HUMAN Fatty aldehyde dehydrogenase (Fragment) OS=Homo sapiens GN=ALDH3A2 PE=2 SV=1
+sp|P17655|CAN2_HUMAN Calpain-2 catalytic subunit OS=Homo sapiens GN=CAPN2 PE=1 SV=6
+tr|B7Z7A9|B7Z7A9_HUMAN Phosphoglycerate kinase OS=Homo sapiens GN=PGK1 PE=2 SV=1
+tr|E5RIP1|E5RIP1_HUMAN 40S ribosomal protein S20 OS=Homo sapiens GN=RPS20 PE=2 SV=1
+sp|A2RTX5|SYTC2_HUMAN Probable threonine--tRNA ligase 2, cytoplasmic OS=Homo sapiens GN=TARSL2 PE=1 SV=1
+tr|Q5TCU6|Q5TCU6_HUMAN Talin-1 OS=Homo sapiens GN=TLN1 PE=2 SV=1
+sp|O14773|TPP1_HUMAN Tripeptidyl-peptidase 1 OS=Homo sapiens GN=TPP1 PE=1 SV=2
+sp|P60709|ACTB_HUMAN Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1
+tr|J3QRV5|J3QRV5_HUMAN Lethal(2) giant larvae protein homolog 2 OS=Homo sapiens GN=LLGL2 PE=2 SV=1
+tr|C9JRZ6|C9JRZ6_HUMAN Coiled-coil-helix-coiled-coil-helix domain-containing protein 3, mitochondrial OS=Homo sapiens GN=CHCHD3 PE=2 SV=1
+tr|H0YLU2|H0YLU2_HUMAN Proteasome activator complex subunit 1 (Fragment) OS=Homo sapiens GN=PSME1 PE=2 SV=1
+sp|P37802|TAGL2_HUMAN Transgelin-2 OS=Homo sapiens GN=TAGLN2 PE=1 SV=3
+sp|P49327|FAS_HUMAN Fatty acid synthase OS=Homo sapiens GN=FASN PE=1 SV=3
+tr|E7EU23|E7EU23_HUMAN Rab GDP dissociation inhibitor beta OS=Homo sapiens GN=GDI2 PE=2 SV=1
+tr|B3KYB6|B3KYB6_HUMAN Phosphatidylinositol transfer protein beta isoform (Fragment) OS=Homo sapiens GN=PITPNB PE=2 SV=1
+tr|D6R918|D6R918_HUMAN OCIA domain-containing protein 1 (Fragment) OS=Homo sapiens GN=OCIAD1 PE=2 SV=1
+tr|G3V2N5|G3V2N5_HUMAN Alpha-actinin-1 (Fragment) OS=Homo sapiens GN=ACTN1 PE=2 SV=1
+tr|E9PH29|E9PH29_HUMAN Thioredoxin-dependent peroxide reductase, mitochondrial OS=Homo sapiens GN=PRDX3 PE=2 SV=1
+tr|B4E241|B4E241_HUMAN Serine/arginine-rich-splicing factor 3 OS=Homo sapiens GN=SFRS3 PE=2 SV=1
+sp|P41743|KPCI_HUMAN Protein kinase C iota type OS=Homo sapiens GN=PRKCI PE=1 SV=2
+sp|O00116|ADAS_HUMAN Alkyldihydroxyacetonephosphate synthase, peroxisomal OS=Homo sapiens GN=AGPS PE=1 SV=1
+tr|B4DHP2|B4DHP2_HUMAN Prostaglandin E synthase 3 OS=Homo sapiens GN=PTGES3 PE=2 SV=1
+sp|Q9Y3Z3|SAMH1_HUMAN Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 OS=Homo sapiens GN=SAMHD1 PE=1 SV=2
+tr|B4DUA0|B4DUA0_HUMAN Plastin-2 OS=Homo sapiens GN=LCP1 PE=2 SV=1
+tr|B7ZAX5|B7ZAX5_HUMAN N-acetylgalactosamine kinase OS=Homo sapiens GN=GALK2 PE=2 SV=1
+tr|F5H6E2|F5H6E2_HUMAN Unconventional myosin-Ic OS=Homo sapiens GN=MYO1C PE=2 SV=1
+sp|O15269|SPTC1_HUMAN Serine palmitoyltransferase 1 OS=Homo sapiens GN=SPTLC1 PE=1 SV=1
+tr|B4DNM9|B4DNM9_HUMAN Dihydroxyacetone phosphate acyltransferase OS=Homo sapiens GN=GNPAT PE=2 SV=1
+tr|A2A2S5|A2A2S5_HUMAN Ribosome-binding protein 1 (Fragment) OS=Homo sapiens GN=RRBP1 PE=2 SV=1
+tr|B7Z463|B7Z463_HUMAN Puromycin-sensitive aminopeptidase OS=Homo sapiens GN=NPEPPS PE=2 SV=1
+sp|O43324|MCA3_HUMAN Eukaryotic translation elongation factor 1 epsilon-1 OS=Homo sapiens GN=EEF1E1 PE=1 SV=1
+tr|F8VQQ8|F8VQQ8_HUMAN Ubiquitin-conjugating enzyme E2 N OS=Homo sapiens GN=UBE2N PE=2 SV=1
+tr|H0Y5W0|H0Y5W0_HUMAN E3 ubiquitin-protein ligase HUWE1 (Fragment) OS=Homo sapiens GN=HUWE1 PE=4 SV=1
+sp|Q01518|CAP1_HUMAN Adenylyl cyclase-associated protein 1 OS=Homo sapiens GN=CAP1 PE=1 SV=5
+tr|H9KV70|H9KV70_HUMAN Neutrophil gelatinase-associated lipocalin OS=Homo sapiens GN=LCN2 PE=2 SV=1
+tr|B4DXW1|B4DXW1_HUMAN Actin-related protein 3 OS=Homo sapiens GN=ACTR3 PE=2 SV=1
+tr|A6NN80|A6NN80_HUMAN Annexin OS=Homo sapiens GN=ANXA6 PE=2 SV=3
+tr|C9J0D1|C9J0D1_HUMAN Histone H2A OS=Homo sapiens GN=H2AFV PE=2 SV=1
+tr|E7EWT1|E7EWT1_HUMAN Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit OS=Homo sapiens GN=DDOST PE=2 SV=1
+tr|C9JLI6|C9JLI6_HUMAN 40S ribosomal protein S27 OS=Homo sapiens GN=RPS27L PE=2 SV=1
+tr|B3KVK7|B3KVK7_HUMAN Methionine--tRNA ligase, cytoplasmic OS=Homo sapiens GN=MARS PE=2 SV=1
+sp|P08238|HS90B_HUMAN Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4
+tr|B7Z7A3|B7Z7A3_HUMAN Nucleolar GTP-binding protein 1 OS=Homo sapiens GN=GTPBP4 PE=2 SV=1
+tr|F8W6P5|F8W6P5_HUMAN LVV-hemorphin-7 (Fragment) OS=Homo sapiens GN=HBB PE=2 SV=1
+sp|P05091|ALDH2_HUMAN Aldehyde dehydrogenase, mitochondrial OS=Homo sapiens GN=ALDH2 PE=1 SV=2
+tr|C9J5Z5|C9J5Z5_HUMAN Protein FAM3D (Fragment) OS=Homo sapiens GN=FAM3D PE=2 SV=1
+tr|F5GYJ8|F5GYJ8_HUMAN Ubiquitin thioesterase OTUB1 OS=Homo sapiens GN=OTUB1 PE=2 SV=1
+tr|C9JFR7|C9JFR7_HUMAN Cytochrome c (Fragment) OS=Homo sapiens GN=CYCS PE=2 SV=1
+tr|C9J931|C9J931_HUMAN GTP-binding protein Rheb OS=Homo sapiens GN=RHEB PE=2 SV=1
+tr|F8VU51|F8VU51_HUMAN YLP motif-containing protein 1 OS=Homo sapiens GN=YLPM1 PE=2 SV=1
+sp|Q96I24|FUBP3_HUMAN Far upstream element-binding protein 3 OS=Homo sapiens GN=FUBP3 PE=1 SV=2
+sp|Q2WGN9|GAB4_HUMAN GRB2-associated-binding protein 4 OS=Homo sapiens GN=GAB4 PE=2 SV=1
+tr|E9PK25|E9PK25_HUMAN Cofilin-1 OS=Homo sapiens GN=CFL1 PE=2 SV=1
+sp|P55290|CAD13_HUMAN Cadherin-13 OS=Homo sapiens GN=CDH13 PE=1 SV=1
+tr|G3V1K3|G3V1K3_HUMAN Paraoxonase 2, isoform CRA_a OS=Homo sapiens GN=PON2 PE=4 SV=1
+tr|K7EJ81|K7EJ81_HUMAN 116 kDa U5 small nuclear ribonucleoprotein component OS=Homo sapiens GN=EFTUD2 PE=2 SV=1
+tr|B4DXP5|B4DXP5_HUMAN Poly(rC)-binding protein 2 OS=Homo sapiens GN=PCBP2 PE=2 SV=1
+tr|B3KQ95|B3KQ95_HUMAN Squalene synthase OS=Homo sapiens GN=FDFT1 PE=2 SV=1
+sp|Q12907|LMAN2_HUMAN Vesicular integral-membrane protein VIP36 OS=Homo sapiens GN=LMAN2 PE=1 SV=1
+sp|P02545|LMNA_HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1
+tr|C9J3F6|C9J3F6_HUMAN TBC1 domain family member 5 OS=Homo sapiens GN=TBC1D5 PE=2 SV=1
+sp|P30837|AL1B1_HUMAN Aldehyde dehydrogenase X, mitochondrial OS=Homo sapiens GN=ALDH1B1 PE=1 SV=3
+tr|J3QRK0|J3QRK0_HUMAN Integrin beta-4 (Fragment) OS=Homo sapiens GN=ITGB4 PE=4 SV=1
+sp|P55060|XPO2_HUMAN Exportin-2 OS=Homo sapiens GN=CSE1L PE=1 SV=3
+sp|P13639|EF2_HUMAN Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4
+sp|P21912|DHSB_HUMAN Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial OS=Homo sapiens GN=SDHB PE=1 SV=3
+sp|P62241|RS8_HUMAN 40S ribosomal protein S8 OS=Homo sapiens GN=RPS8 PE=1 SV=2
+tr|C9JC84|C9JC84_HUMAN Fibrinogen gamma chain OS=Homo sapiens GN=FGG PE=2 SV=1
+sp|O43242|PSMD3_HUMAN 26S proteasome non-ATPase regulatory subunit 3 OS=Homo sapiens GN=PSMD3 PE=1 SV=2
+tr|F2Z388|F2Z388_HUMAN 60S ribosomal protein L35 OS=Homo sapiens GN=RPL35 PE=2 SV=1
+tr|Q5H928|Q5H928_HUMAN 3-hydroxyacyl-CoA dehydrogenase type-2 OS=Homo sapiens GN=HSD17B10 PE=2 SV=1
+sp|P36915|GNL1_HUMAN Guanine nucleotide-binding protein-like 1 OS=Homo sapiens GN=GNL1 PE=1 SV=2
+tr|B4DGT0|B4DGT0_HUMAN N(G),N(G)-dimethylarginine dimethylaminohydrolase 1 OS=Homo sapiens GN=DDAH1 PE=2 SV=1
+sp|P11021|GRP78_HUMAN 78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2
+tr|A6NJD9|A6NJD9_HUMAN 39S ribosomal protein L23, mitochondrial OS=Homo sapiens GN=MRPL23 PE=2 SV=1
+tr|F8VRN8|F8VRN8_HUMAN LIM domain and actin-binding protein 1 OS=Homo sapiens GN=LIMA1 PE=2 SV=1
+tr|M0R0Y2|M0R0Y2_HUMAN Napsin-A OS=Homo sapiens GN=NAPA PE=4 SV=1
+tr|I3L1P8|I3L1P8_HUMAN Mitochondrial 2-oxoglutarate/malate carrier protein (Fragment) OS=Homo sapiens GN=SLC25A11 PE=2 SV=1
+tr|H7C3T4|H7C3T4_HUMAN Peroxiredoxin-4 (Fragment) OS=Homo sapiens GN=PRDX4 PE=4 SV=1
+tr|A8MXP9|A8MXP9_HUMAN Matrin-3 OS=Homo sapiens GN=MATR3 PE=2 SV=1
+tr|B4DTU4|B4DTU4_HUMAN DNA ligase OS=Homo sapiens GN=LIG1 PE=2 SV=1
+sp|O00151|PDLI1_HUMAN PDZ and LIM domain protein 1 OS=Homo sapiens GN=PDLIM1 PE=1 SV=4
+sp|Q96N66|MBOA7_HUMAN Lysophospholipid acyltransferase 7 OS=Homo sapiens GN=MBOAT7 PE=1 SV=2
+tr|H3BMS6|H3BMS6_HUMAN Sulfide:quinone oxidoreductase, mitochondrial (Fragment) OS=Homo sapiens GN=SQRDL PE=4 SV=1
+tr|D6RA82|D6RA82_HUMAN Annexin OS=Homo sapiens GN=ANXA3 PE=2 SV=1
+tr|B4DKL3|B4DKL3_HUMAN Mitochondrial-processing peptidase subunit alpha OS=Homo sapiens GN=PMPCA PE=2 SV=1
+sp|Q6PJG6|BRAT1_HUMAN BRCA1-associated ATM activator 1 OS=Homo sapiens GN=BRAT1 PE=1 SV=2
+sp|O43765|SGTA_HUMAN Small glutamine-rich tetratricopeptide repeat-containing protein alpha OS=Homo sapiens GN=SGTA PE=1 SV=1
+tr|C9J8N6|C9J8N6_HUMAN Thromboxane-A synthase OS=Homo sapiens GN=TBXAS1 PE=2 SV=1
+sp|P08648|ITA5_HUMAN Integrin alpha-5 OS=Homo sapiens GN=ITGA5 PE=1 SV=2
+tr|F8VU90|F8VU90_HUMAN Peptidyl-prolyl cis-trans isomerase OS=Homo sapiens GN=FKBP11 PE=2 SV=1
+tr|J3KMX5|J3KMX5_HUMAN 40S ribosomal protein S13 OS=Homo sapiens GN=RPS13 PE=2 SV=1
+tr|Q5W0J0|Q5W0J0_HUMAN Ras-related protein Rab-18 OS=Homo sapiens GN=RAB18 PE=2 SV=1
+tr|F5H6T1|F5H6T1_HUMAN Actin-related protein 2 OS=Homo sapiens GN=ACTR2 PE=2 SV=1
+tr|H0YFA7|H0YFA7_HUMAN Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Homo sapiens GN=GNE PE=2 SV=2
+tr|H0YAR9|H0YAR9_HUMAN Protein THEM6 (Fragment) OS=Homo sapiens GN=THEM6 PE=4 SV=1
+tr|F5GY55|F5GY55_HUMAN DNA damage-binding protein 1 OS=Homo sapiens GN=DDB1 PE=2 SV=1
+tr|E7EP94|E7EP94_HUMAN Heat shock 70 kDa protein 1A/1B OS=Homo sapiens GN=HSPA1A PE=2 SV=2
+tr|F5GZK5|F5GZK5_HUMAN T-complex protein 1 subunit eta OS=Homo sapiens GN=CCT7 PE=2 SV=1
+sp|A6NNZ2|TBB8L_HUMAN Tubulin beta-8 chain-like protein LOC260334 OS=Homo sapiens PE=1 SV=1
+sp|P60174|TPIS_HUMAN Triosephosphate isomerase OS=Homo sapiens GN=TPI1 PE=1 SV=3
+sp|Q14566|MCM6_HUMAN DNA replication licensing factor MCM6 OS=Homo sapiens GN=MCM6 PE=1 SV=1
+tr|K7EKI4|K7EKI4_HUMAN 39S ribosomal protein L4, mitochondrial OS=Homo sapiens GN=MRPL4 PE=2 SV=1
+sp|A6NKZ8|YI016_HUMAN Putative tubulin beta chain-like protein ENSP00000290377 OS=Homo sapiens PE=5 SV=2
+tr|C9JUU1|C9JUU1_HUMAN Atlastin-3 OS=Homo sapiens GN=ATL3 PE=2 SV=1
+tr|F8WEF0|F8WEF0_HUMAN Phosphoribosylaminoimidazolecarboxamide formyltransferase OS=Homo sapiens GN=ATIC PE=2 SV=1
+tr|J3KTJ3|J3KTJ3_HUMAN 60S ribosomal protein L23 OS=Homo sapiens GN=RPL23 PE=2 SV=1
+tr|I3L3D5|I3L3D5_HUMAN Profilin-1 (Fragment) OS=Homo sapiens GN=PFN1 PE=2 SV=1
+tr|F8W7S5|F8W7S5_HUMAN Ribosome-binding protein 1 OS=Homo sapiens GN=RRBP1 PE=2 SV=1
+sp|P07954|FUMH_HUMAN Fumarate hydratase, mitochondrial OS=Homo sapiens GN=FH PE=1 SV=3
+sp|Q6P587|FAHD1_HUMAN Acylpyruvase FAHD1, mitochondrial OS=Homo sapiens GN=FAHD1 PE=1 SV=2
+tr|E7EN24|E7EN24_HUMAN Cadherin-17 OS=Homo sapiens GN=CDH17 PE=2 SV=1
+sp|Q9H3R2|MUC13_HUMAN Mucin-13 OS=Homo sapiens GN=MUC13 PE=1 SV=2
+tr|E7EMH5|E7EMH5_HUMAN Pyridoxal-dependent decarboxylase domain-containing protein 1 OS=Homo sapiens GN=PDXDC1 PE=2 SV=1
+tr|H3BQQ2|H3BQQ2_HUMAN Zinc finger protein 598 OS=Homo sapiens GN=ZNF598 PE=2 SV=1
+tr|E9PKB1|E9PKB1_HUMAN Coiled-coil domain-containing protein 15 OS=Homo sapiens GN=CCDC15 PE=2 SV=1
+sp|Q8WUP2|FBLI1_HUMAN Filamin-binding LIM protein 1 OS=Homo sapiens GN=FBLIM1 PE=1 SV=2
+tr|A8K854|A8K854_HUMAN HCG1983504, isoform CRA_f OS=Homo sapiens GN=TUBB3 PE=2 SV=1
+sp|P11047|LAMC1_HUMAN Laminin subunit gamma-1 OS=Homo sapiens GN=LAMC1 PE=1 SV=3
+tr|F5GX14|F5GX14_HUMAN Malectin OS=Homo sapiens GN=MLEC PE=2 SV=1
+tr|F5H1A8|F5H1A8_HUMAN Gelsolin OS=Homo sapiens GN=GSN PE=2 SV=1
+sp|P00352|AL1A1_HUMAN Retinal dehydrogenase 1 OS=Homo sapiens GN=ALDH1A1 PE=1 SV=2
+tr|H0Y4R1|H0Y4R1_HUMAN Inosine-5'-monophosphate dehydrogenase 2 (Fragment) OS=Homo sapiens GN=IMPDH2 PE=3 SV=1
+tr|F8WE98|F8WE98_HUMAN Filamin-A (Fragment) OS=Homo sapiens GN=FLNA PE=2 SV=2
+sp|O00299|CLIC1_HUMAN Chloride intracellular channel protein 1 OS=Homo sapiens GN=CLIC1 PE=1 SV=4
+tr|G8JLB6|G8JLB6_HUMAN Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens GN=HNRNPH1 PE=2 SV=1
+sp|Q9H553|ALG2_HUMAN Alpha-1,3/1,6-mannosyltransferase ALG2 OS=Homo sapiens GN=ALG2 PE=1 SV=1
+sp|Q92499|DDX1_HUMAN ATP-dependent RNA helicase DDX1 OS=Homo sapiens GN=DDX1 PE=1 SV=2
+tr|F8WAM2|F8WAM2_HUMAN T-complex protein 1 subunit eta (Fragment) OS=Homo sapiens GN=CCT7 PE=2 SV=1
+tr|E7EQR4|E7EQR4_HUMAN Ezrin OS=Homo sapiens GN=EZR PE=2 SV=2
+tr|F8VYN5|F8VYN5_HUMAN Heterogeneous nuclear ribonucleoprotein A1 (Fragment) OS=Homo sapiens GN=HNRNPA1 PE=2 SV=1
+tr|B7Z1R5|B7Z1R5_HUMAN V-type proton ATPase catalytic subunit A OS=Homo sapiens GN=ATP6V1A PE=2 SV=1
+tr|C9JQN7|C9JQN7_HUMAN Eukaryotic translation initiation factor 3 subunit B (Fragment) OS=Homo sapiens GN=EIF3B PE=2 SV=1
+sp|P27797|CALR_HUMAN Calreticulin OS=Homo sapiens GN=CALR PE=1 SV=1
+tr|J3KS13|J3KS13_HUMAN Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC PE=2 SV=1
+sp|Q09666|AHNK_HUMAN Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2
+tr|H7C013|H7C013_HUMAN Serum albumin (Fragment) OS=Homo sapiens GN=ALB PE=2 SV=1
+sp|Q9BZE1|RM37_HUMAN 39S ribosomal protein L37, mitochondrial OS=Homo sapiens GN=MRPL37 PE=1 SV=2
+tr|A8MXK4|A8MXK4_HUMAN 40S ribosomal protein S9 OS=Homo sapiens GN=RPS9 PE=2 SV=1
+tr|H3BM93|H3BM93_HUMAN Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens GN=NUP93 PE=2 SV=1
+sp|P01833|PIGR_HUMAN Polymeric immunoglobulin receptor OS=Homo sapiens GN=PIGR PE=1 SV=4
+tr|H0Y8K3|H0Y8K3_HUMAN Protein CDV3 homolog (Fragment) OS=Homo sapiens GN=CDV3 PE=4 SV=1
+tr|E7EMS6|E7EMS6_HUMAN Catechol O-methyltransferase (Fragment) OS=Homo sapiens GN=COMT PE=2 SV=1
+sp|Q8WWP7|GIMA1_HUMAN GTPase IMAP family member 1 OS=Homo sapiens GN=GIMAP1 PE=1 SV=1
+sp|P40939|ECHA_HUMAN Trifunctional enzyme subunit alpha, mitochondrial OS=Homo sapiens GN=HADHA PE=1 SV=2
+tr|J3KPS0|J3KPS0_HUMAN DnaJ (Hsp40) homolog, subfamily B, member 12, isoform CRA_c OS=Homo sapiens GN=DNAJB12 PE=2 SV=1
+sp|P30040|ERP29_HUMAN Endoplasmic reticulum resident protein 29 OS=Homo sapiens GN=ERP29 PE=1 SV=4
+tr|J3KR24|J3KR24_HUMAN Isoleucine--tRNA ligase, cytoplasmic OS=Homo sapiens GN=IARS PE=2 SV=1
+tr|B3KSQ1|B3KSQ1_HUMAN Very-long-chain enoyl-CoA reductase OS=Homo sapiens GN=TECR PE=2 SV=1
+sp|P61978|HNRPK_HUMAN Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens GN=HNRNPK PE=1 SV=1
+sp|P14543|NID1_HUMAN Nidogen-1 OS=Homo sapiens GN=NID1 PE=1 SV=3
+tr|G5EA52|G5EA52_HUMAN Protein disulfide isomerase family A, member 3, isoform CRA_b OS=Homo sapiens GN=PDIA3 PE=2 SV=1
+sp|P30041|PRDX6_HUMAN Peroxiredoxin-6 OS=Homo sapiens GN=PRDX6 PE=1 SV=3
+sp|Q9UEW8|STK39_HUMAN STE20/SPS1-related proline-alanine-rich protein kinase OS=Homo sapiens GN=STK39 PE=1 SV=3
+tr|B3KSB1|B3KSB1_HUMAN Endoplasmic reticulum metallopeptidase 1 OS=Homo sapiens GN=ERMP1 PE=2 SV=1
+tr|E9PDB2|E9PDB2_HUMAN Malate dehydrogenase, mitochondrial OS=Homo sapiens GN=MDH2 PE=2 SV=1
+tr|E9PG15|E9PG15_HUMAN 14-3-3 protein theta (Fragment) OS=Homo sapiens GN=YWHAQ PE=2 SV=1
+tr|B5MBZ0|B5MBZ0_HUMAN Echinoderm microtubule-associated protein-like 4 OS=Homo sapiens GN=EML4 PE=2 SV=3
+tr|E9PKU7|E9PKU7_HUMAN Neutral alpha-glucosidase AB OS=Homo sapiens GN=GANAB PE=2 SV=1
+tr|D6RBV2|D6RBV2_HUMAN Vesicular integral-membrane protein VIP36 OS=Homo sapiens GN=LMAN2 PE=2 SV=1
+tr|F8VPV9|F8VPV9_HUMAN ATP synthase subunit beta OS=Homo sapiens GN=ATP5B PE=2 SV=1
+sp|Q14554|PDIA5_HUMAN Protein disulfide-isomerase A5 OS=Homo sapiens GN=PDIA5 PE=1 SV=1
+sp|O43399|TPD54_HUMAN Tumor protein D54 OS=Homo sapiens GN=TPD52L2 PE=1 SV=2
+sp|P11216|PYGB_HUMAN Glycogen phosphorylase, brain form OS=Homo sapiens GN=PYGB PE=1 SV=5
+sp|O43172|PRP4_HUMAN U4/U6 small nuclear ribonucleoprotein Prp4 OS=Homo sapiens GN=PRPF4 PE=1 SV=2
+sp|P32119|PRDX2_HUMAN Peroxiredoxin-2 OS=Homo sapiens GN=PRDX2 PE=1 SV=5
+tr|F5GXS0|F5GXS0_HUMAN C4b-B OS=Homo sapiens GN=C4B PE=2 SV=1
+sp|P02790|HEMO_HUMAN Hemopexin OS=Homo sapiens GN=HPX PE=1 SV=2
+tr|J3QL37|J3QL37_HUMAN Splicing factor 3B subunit 3 (Fragment) OS=Homo sapiens GN=SF3B3 PE=2 SV=1
+tr|H0YCR7|H0YCR7_HUMAN Ribonuclease H1 (Fragment) OS=Homo sapiens GN=RNH1 PE=2 SV=1
+sp|P28066|PSA5_HUMAN Proteasome subunit alpha type-5 OS=Homo sapiens GN=PSMA5 PE=1 SV=3
+tr|G3XAL9|G3XAL9_HUMAN Solute carrier family 12 (Sodium/potassium/chloride transporters), member 2, isoform CRA_a OS=Homo sapiens GN=SLC12A2 PE=4 SV=1
+tr|D6RA73|D6RA73_HUMAN Stress-70 protein, mitochondrial (Fragment) OS=Homo sapiens GN=HSPA9 PE=2 SV=1
+sp|P14923|PLAK_HUMAN Junction plakoglobin OS=Homo sapiens GN=JUP PE=1 SV=3
+sp|Q96QK1|VPS35_HUMAN Vacuolar protein sorting-associated protein 35 OS=Homo sapiens GN=VPS35 PE=1 SV=2
+tr|F5GX33|F5GX33_HUMAN Calcium-binding mitochondrial carrier protein Aralar2 OS=Homo sapiens GN=SLC25A13 PE=2 SV=1
+tr|H0YKA5|H0YKA5_HUMAN Ras GTPase-activating-like protein IQGAP1 (Fragment) OS=Homo sapiens GN=IQGAP1 PE=2 SV=1
+tr|F8VY40|F8VY40_HUMAN La-related protein 4 (Fragment) OS=Homo sapiens GN=LARP4 PE=2 SV=1
+sp|Q6P1L8|RM14_HUMAN 39S ribosomal protein L14, mitochondrial OS=Homo sapiens GN=MRPL14 PE=1 SV=1
+sp|O60701|UGDH_HUMAN UDP-glucose 6-dehydrogenase OS=Homo sapiens GN=UGDH PE=1 SV=1
+tr|J3KSR8|J3KSR8_HUMAN Serine/arginine-rich-splicing factor 1 (Fragment) OS=Homo sapiens GN=SRSF1 PE=4 SV=1
+sp|P22314|UBA1_HUMAN Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens GN=UBA1 PE=1 SV=3
+tr|D6RAI5|D6RAI5_HUMAN NAD(P) transhydrogenase, mitochondrial (Fragment) OS=Homo sapiens GN=NNT PE=2 SV=1
+sp|P04406|G3P_HUMAN Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens GN=GAPDH PE=1 SV=3
+sp|Q99459|CDC5L_HUMAN Cell division cycle 5-like protein OS=Homo sapiens GN=CDC5L PE=1 SV=2
+sp|P07900|HS90A_HUMAN Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5
+sp|P06400|RB_HUMAN Retinoblastoma-associated protein OS=Homo sapiens GN=RB1 PE=1 SV=2
+tr|E9PCY5|E9PCY5_HUMAN DNA topoisomerase 2 (Fragment) OS=Homo sapiens GN=TOP2B PE=2 SV=1
+tr|D6RCD0|D6RCD0_HUMAN Estradiol 17-beta-dehydrogenase 11 OS=Homo sapiens GN=HSD17B11 PE=2 SV=1
+sp|P18206|VINC_HUMAN Vinculin OS=Homo sapiens GN=VCL PE=1 SV=4
+sp|P54652|HSP72_HUMAN Heat shock-related 70 kDa protein 2 OS=Homo sapiens GN=HSPA2 PE=1 SV=1
+tr|B4DPJ8|B4DPJ8_HUMAN T-complex protein 1 subunit zeta OS=Homo sapiens GN=CCT6A PE=2 SV=1
+tr|E9PD53|E9PD53_HUMAN Structural maintenance of chromosomes protein OS=Homo sapiens GN=SMC4 PE=2 SV=1
+tr|A2A3R7|A2A3R7_HUMAN 40S ribosomal protein S6 OS=Homo sapiens GN=RPS6 PE=2 SV=1
+tr|H0YKF0|H0YKF0_HUMAN Electron transfer flavoprotein subunit alpha, mitochondrial (Fragment) OS=Homo sapiens GN=ETFA PE=2 SV=1
+tr|B1AH99|B1AH99_HUMAN Myosin-9 (Fragment) OS=Homo sapiens GN=MYH9 PE=2 SV=1
+tr|H7C5W8|H7C5W8_HUMAN Alpha-actinin-1 (Fragment) OS=Homo sapiens GN=ACTN1 PE=2 SV=1
+sp|Q9Y6C2|EMIL1_HUMAN EMILIN-1 OS=Homo sapiens GN=EMILIN1 PE=1 SV=2
+sp|P58107|EPIPL_HUMAN Epiplakin OS=Homo sapiens GN=EPPK1 PE=1 SV=2
+sp|Q96C19|EFHD2_HUMAN EF-hand domain-containing protein D2 OS=Homo sapiens GN=EFHD2 PE=1 SV=1
+sp|Q5T7N2|LITD1_HUMAN LINE-1 type transposase domain-containing protein 1 OS=Homo sapiens GN=L1TD1 PE=1 SV=1
+tr|H3BQZ7|H3BQZ7_HUMAN HCG2044799 OS=Homo sapiens GN=hCG_2044799 PE=4 SV=1
+sp|P08572|CO4A2_HUMAN Collagen alpha-2(IV) chain OS=Homo sapiens GN=COL4A2 PE=1 SV=4
+sp|P30050|RL12_HUMAN 60S ribosomal protein L12 OS=Homo sapiens GN=RPL12 PE=1 SV=1
+sp|Q9Y696|CLIC4_HUMAN Chloride intracellular channel protein 4 OS=Homo sapiens GN=CLIC4 PE=1 SV=4
+sp|P05141|ADT2_HUMAN ADP/ATP translocase 2 OS=Homo sapiens GN=SLC25A5 PE=1 SV=7
+tr|B4DVF8|B4DVF8_HUMAN Heterogeneous nuclear ribonucleoprotein L OS=Homo sapiens GN=HNRNPL PE=2 SV=1
+sp|P27694|RFA1_HUMAN Replication protein A 70 kDa DNA-binding subunit OS=Homo sapiens GN=RPA1 PE=1 SV=2
+sp|P35749|MYH11_HUMAN Myosin-11 OS=Homo sapiens GN=MYH11 PE=1 SV=3
+tr|G3V119|G3V119_HUMAN DBIRD complex subunit KIAA1967 OS=Homo sapiens GN=KIAA1967 PE=4 SV=1
+tr|F5GXP4|F5GXP4_HUMAN ADP-ribosylation factor-like protein 6-interacting protein 1 OS=Homo sapiens GN=ARL6IP1 PE=2 SV=1
+tr|F8VPP1|F8VPP1_HUMAN Adenylate kinase 2, mitochondrial OS=Homo sapiens GN=AK2 PE=2 SV=1
+tr|B5MCQ5|B5MCQ5_HUMAN Protein disulfide-isomerase A6 OS=Homo sapiens GN=PDIA6 PE=2 SV=1
+tr|B4DTG2|B4DTG2_HUMAN Elongation factor 1-gamma OS=Homo sapiens GN=EEF1G PE=2 SV=1
+sp|Q08211|DHX9_HUMAN ATP-dependent RNA helicase A OS=Homo sapiens GN=DHX9 PE=1 SV=4
+tr|E7EWU3|E7EWU3_HUMAN Acetyl-coenzyme A synthetase, cytoplasmic OS=Homo sapiens GN=ACSS2 PE=2 SV=1
+tr|B1AR61|B1AR61_HUMAN Hexokinase-1 (Fragment) OS=Homo sapiens GN=HK1 PE=2 SV=1
+tr|I3L2R7|I3L2R7_HUMAN Pigment epithelium-derived factor (Fragment) OS=Homo sapiens GN=SERPINF1 PE=2 SV=1
+sp|Q14019|COTL1_HUMAN Coactosin-like protein OS=Homo sapiens GN=COTL1 PE=1 SV=3
+sp|Q9Y6V0|PCLO_HUMAN Protein piccolo OS=Homo sapiens GN=PCLO PE=1 SV=4
+tr|B9A067|B9A067_HUMAN Mitochondrial inner membrane protein OS=Homo sapiens GN=IMMT PE=2 SV=2
+tr|C9IZU3|C9IZU3_HUMAN Septin-2 (Fragment) OS=Homo sapiens GN=SEPT2 PE=2 SV=1
+tr|F8WF86|F8WF86_HUMAN NEDD8-activating enzyme E1 catalytic subunit OS=Homo sapiens GN=UBA3 PE=2 SV=1
+tr|B5MDF5|B5MDF5_HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=2 SV=1
+sp|P53621|COPA_HUMAN Coatomer subunit alpha OS=Homo sapiens GN=COPA PE=1 SV=2
+sp|O60547|GMDS_HUMAN GDP-mannose 4,6 dehydratase OS=Homo sapiens GN=GMDS PE=1 SV=1
+sp|Q8WVQ1|CANT1_HUMAN Soluble calcium-activated nucleotidase 1 OS=Homo sapiens GN=CANT1 PE=1 SV=1
+sp|P35579|MYH9_HUMAN Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4
+tr|D6RAN4|D6RAN4_HUMAN 60S ribosomal protein L9 (Fragment) OS=Homo sapiens GN=RPL9 PE=2 SV=1
+sp|Q01082|SPTB2_HUMAN Spectrin beta chain, non-erythrocytic 1 OS=Homo sapiens GN=SPTBN1 PE=1 SV=2
+tr|F8W810|F8W810_HUMAN Uncharacterized protein OS=Homo sapiens PE=2 SV=1
+tr|C9IZH1|C9IZH1_HUMAN EH domain-containing protein 1 (Fragment) OS=Homo sapiens GN=EHD1 PE=2 SV=1
+tr|B4DVE7|B4DVE7_HUMAN Annexin OS=Homo sapiens GN=ANXA11 PE=2 SV=1
+sp|P68871|HBB_HUMAN Hemoglobin subunit beta OS=Homo sapiens GN=HBB PE=1 SV=2
+sp|P38646|GRP75_HUMAN Stress-70 protein, mitochondrial OS=Homo sapiens GN=HSPA9 PE=1 SV=2
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2
+sp|Q6UN15|FIP1_HUMAN Pre-mRNA 3'-end-processing factor FIP1 OS=Homo sapiens GN=FIP1L1 PE=1 SV=1
+tr|I3L4R8|I3L4R8_HUMAN Replication protein A 70 kDa DNA-binding subunit (Fragment) OS=Homo sapiens GN=RPA1 PE=2 SV=1
+sp|Q9Y5P6|GMPPB_HUMAN Mannose-1-phosphate guanyltransferase beta OS=Homo sapiens GN=GMPPB PE=1 SV=2
+tr|F8WCQ1|F8WCQ1_HUMAN PHD finger protein 20 OS=Homo sapiens GN=PHF20 PE=2 SV=1
+sp|P38117|ETFB_HUMAN Electron transfer flavoprotein subunit beta OS=Homo sapiens GN=ETFB PE=1 SV=3
+sp|P26373|RL13_HUMAN 60S ribosomal protein L13 OS=Homo sapiens GN=RPL13 PE=1 SV=4
+tr|B4DUR8|B4DUR8_HUMAN T-complex protein 1 subunit gamma OS=Homo sapiens GN=CCT3 PE=2 SV=1
+sp|P46940|IQGA1_HUMAN Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens GN=IQGAP1 PE=1 SV=1
+tr|H0YMR4|H0YMR4_HUMAN Importin-4 (Fragment) OS=Homo sapiens GN=IPO4 PE=4 SV=1
+tr|A8MXL6|A8MXL6_HUMAN Protein SEC13 homolog OS=Homo sapiens GN=SEC13 PE=2 SV=1
+tr|M0R0U3|M0R0U3_HUMAN 6-phosphogluconolactonase OS=Homo sapiens GN=PGLS PE=4 SV=1
+tr|E7EW25|E7EW25_HUMAN Acetoacetyl-CoA synthetase OS=Homo sapiens GN=AACS PE=2 SV=2
+tr|H0Y8G2|H0Y8G2_HUMAN Coatomer subunit gamma-1 (Fragment) OS=Homo sapiens GN=COPG1 PE=4 SV=1
+tr|H0YFX9|H0YFX9_HUMAN Histone H2A (Fragment) OS=Homo sapiens GN=H2AFJ PE=2 SV=1
+tr|K7EJB9|K7EJB9_HUMAN Calreticulin (Fragment) OS=Homo sapiens GN=CALR PE=2 SV=1
+tr|A6NP24|A6NP24_HUMAN Quinone oxidoreductase (Fragment) OS=Homo sapiens GN=CRYZ PE=2 SV=1
+tr|E7EMM4|E7EMM4_HUMAN Acid ceramidase OS=Homo sapiens GN=ASAH1 PE=2 SV=1
+sp|Q14764|MVP_HUMAN Major vault protein OS=Homo sapiens GN=MVP PE=1 SV=4
+sp|P56470|LEG4_HUMAN Galectin-4 OS=Homo sapiens GN=LGALS4 PE=1 SV=1
+sp|O00762|UBE2C_HUMAN Ubiquitin-conjugating enzyme E2 C OS=Homo sapiens GN=UBE2C PE=1 SV=1
+tr|C9JDH0|C9JDH0_HUMAN Phosphoribosyl pyrophosphate synthase-associated protein 2 (Fragment) OS=Homo sapiens GN=PRPSAP2 PE=2 SV=1
+tr|B0UXB6|B0UXB6_HUMAN Abhydrolase domain-containing protein 16A OS=Homo sapiens GN=ABHD16A PE=4 SV=1
+sp|Q92616|GCN1L_HUMAN Translational activator GCN1 OS=Homo sapiens GN=GCN1L1 PE=1 SV=6
+sp|Q96TA1|NIBL1_HUMAN Niban-like protein 1 OS=Homo sapiens GN=FAM129B PE=1 SV=3
+tr|E5RJT3|E5RJT3_HUMAN Cadherin-17 (Fragment) OS=Homo sapiens GN=CDH17 PE=2 SV=1
+tr|B4DKM5|B4DKM5_HUMAN Voltage-dependent anion-selective channel protein 2 OS=Homo sapiens GN=VDAC2 PE=2 SV=1
+tr|E7ER27|E7ER27_HUMAN Peroxisomal multifunctional enzyme type 2 OS=Homo sapiens GN=HSD17B4 PE=2 SV=3
+tr|B4DLV4|B4DLV4_HUMAN Serine hydroxymethyltransferase OS=Homo sapiens GN=SHMT2 PE=2 SV=1
+tr|F5H8J2|F5H8J2_HUMAN Uncharacterized protein OS=Homo sapiens GN=P4HB PE=3 SV=1
+sp|Q02878|RL6_HUMAN 60S ribosomal protein L6 OS=Homo sapiens GN=RPL6 PE=1 SV=3
+sp|Q9NR45|SIAS_HUMAN Sialic acid synthase OS=Homo sapiens GN=NANS PE=1 SV=2
+tr|A6NC17|A6NC17_HUMAN Methionine--tRNA ligase, cytoplasmic OS=Homo sapiens GN=MARS PE=2 SV=3
+sp|P22626|ROA2_HUMAN Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens GN=HNRNPA2B1 PE=1 SV=2
+sp|Q14204|DYHC1_HUMAN Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens GN=DYNC1H1 PE=1 SV=5
+tr|B4DGC9|B4DGC9_HUMAN Dynamin-1-like protein OS=Homo sapiens GN=DNM1L PE=2 SV=1
+sp|O75083|WDR1_HUMAN WD repeat-containing protein 1 OS=Homo sapiens GN=WDR1 PE=1 SV=4
+tr|E9PBS1|E9PBS1_HUMAN Phosphoribosylaminoimidazole carboxylase (Fragment) OS=Homo sapiens GN=PAICS PE=2 SV=1
+sp|P08107|HSP71_HUMAN Heat shock 70 kDa protein 1A/1B OS=Homo sapiens GN=HSPA1A PE=1 SV=5
+sp|A0M8Q6|LAC7_HUMAN Ig lambda-7 chain C region OS=Homo sapiens GN=IGLC7 PE=1 SV=2
+tr|M0QXK2|M0QXK2_HUMAN U1 small nuclear ribonucleoprotein A (Fragment) OS=Homo sapiens GN=SNRPA PE=4 SV=1
+tr|C9J6B6|C9J6B6_HUMAN Eukaryotic translation initiation factor 4 gamma 1 (Fragment) OS=Homo sapiens GN=EIF4G1 PE=2 SV=1
+tr|H3BQN4|H3BQN4_HUMAN Fructose-bisphosphate aldolase OS=Homo sapiens GN=ALDOA PE=2 SV=1
+tr|K7EIE4|K7EIE4_HUMAN Septin-9 (Fragment) OS=Homo sapiens GN=SEPT9 PE=2 SV=1
+tr|H3BM38|H3BM38_HUMAN Synaptosomal-associated protein (Fragment) OS=Homo sapiens GN=SNAP23 PE=2 SV=1
+tr|C9J0B2|C9J0B2_HUMAN DCN1-like protein (Fragment) OS=Homo sapiens GN=DCUN1D1 PE=2 SV=1
+sp|P61163|ACTZ_HUMAN Alpha-centractin OS=Homo sapiens GN=ACTR1A PE=1 SV=1
+sp|P62328|TYB4_HUMAN Thymosin beta-4 OS=Homo sapiens GN=TMSB4X PE=1 SV=2
+sp|O95782|AP2A1_HUMAN AP-2 complex subunit alpha-1 OS=Homo sapiens GN=AP2A1 PE=1 SV=3
+tr|B7ZB63|B7ZB63_HUMAN ADP-ribosylation factor 3 OS=Homo sapiens GN=ARF3 PE=2 SV=1
+sp|O00748|EST2_HUMAN Cocaine esterase OS=Homo sapiens GN=CES2 PE=1 SV=1
+sp|Q01081|U2AF1_HUMAN Splicing factor U2AF 35 kDa subunit OS=Homo sapiens GN=U2AF1 PE=1 SV=3
+tr|F8W720|F8W720_HUMAN GMP synthase [glutamine-hydrolyzing] OS=Homo sapiens GN=GMPS PE=2 SV=1
+sp|O75874|IDHC_HUMAN Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens GN=IDH1 PE=1 SV=2
+tr|E9PBU3|E9PBU3_HUMAN Phosphoribosylaminoimidazolecarboxamide formyltransferase OS=Homo sapiens GN=ATIC PE=2 SV=1
+tr|A2A3N8|A2A3N8_HUMAN Adducin 1 (Alpha) OS=Homo sapiens GN=ADD1 PE=2 SV=1
+tr|E9PSI0|E9PSI0_HUMAN Synembryn-A (Fragment) OS=Homo sapiens GN=RIC8A PE=2 SV=1
+tr|C9IY70|C9IY70_HUMAN 60S ribosomal export protein NMD3 (Fragment) OS=Homo sapiens GN=NMD3 PE=2 SV=1
+sp|P61020|RAB5B_HUMAN Ras-related protein Rab-5B OS=Homo sapiens GN=RAB5B PE=1 SV=1
+tr|A2IDB2|A2IDB2_HUMAN 14-3-3 protein eta (Fragment) OS=Homo sapiens GN=YWHAH PE=2 SV=1
+tr|K7EPL2|K7EPL2_HUMAN SUMO-activating enzyme subunit 2 (Fragment) OS=Homo sapiens GN=UBA2 PE=2 SV=1
+tr|J3KTF0|J3KTF0_HUMAN Enoyl-[acyl-carrier-protein] reductase (Fragment) OS=Homo sapiens GN=FASN PE=4 SV=1
+tr|K7EIT4|K7EIT4_HUMAN 14-3-3 protein epsilon (Fragment) OS=Homo sapiens GN=YWHAE PE=4 SV=1
+sp|P31146|COR1A_HUMAN Coronin-1A OS=Homo sapiens GN=CORO1A PE=1 SV=4
+tr|H7BXV5|H7BXV5_HUMAN Endostatin (Fragment) OS=Homo sapiens GN=COL18A1 PE=2 SV=1
+sp|Q14244|MAP7_HUMAN Ensconsin OS=Homo sapiens GN=MAP7 PE=1 SV=1
+sp|Q07075|AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens GN=ENPEP PE=1 SV=3
+tr|C9JV77|C9JV77_HUMAN Alpha-2-HS-glycoprotein OS=Homo sapiens GN=AHSG PE=2 SV=1
+sp|P16144|ITB4_HUMAN Integrin beta-4 OS=Homo sapiens GN=ITGB4 PE=1 SV=5
+tr|J3KSW7|J3KSW7_HUMAN Serine/arginine-rich-splicing factor 1 OS=Homo sapiens GN=SRSF1 PE=2 SV=1
+tr|J3KQ32|J3KQ32_HUMAN Obg-like ATPase 1 OS=Homo sapiens GN=OLA1 PE=2 SV=1
+tr|E9PEW8|E9PEW8_HUMAN Hemoglobin subunit delta (Fragment) OS=Homo sapiens GN=HBD PE=2 SV=1
+tr|E9PR62|E9PR62_HUMAN AP-2 complex subunit alpha-2 OS=Homo sapiens GN=AP2A2 PE=2 SV=1
+tr|E9PK54|E9PK54_HUMAN Heat shock cognate 71 kDa protein (Fragment) OS=Homo sapiens GN=HSPA8 PE=2 SV=1
+sp|Q9UBI6|GBG12_HUMAN Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12 OS=Homo sapiens GN=GNG12 PE=1 SV=3
+sp|P50552|VASP_HUMAN Vasodilator-stimulated phosphoprotein OS=Homo sapiens GN=VASP PE=1 SV=3
+sp|O95347|SMC2_HUMAN Structural maintenance of chromosomes protein 2 OS=Homo sapiens GN=SMC2 PE=1 SV=2
+sp|P01008|ANT3_HUMAN Antithrombin-III OS=Homo sapiens GN=SERPINC1 PE=1 SV=1
+tr|B4DE40|B4DE40_HUMAN Spermine synthase OS=Homo sapiens GN=SMS PE=2 SV=1
+tr|H0Y7A0|H0Y7A0_HUMAN EMILIN-1 (Fragment) OS=Homo sapiens GN=EMILIN1 PE=4 SV=1
+sp|Q8IVT2|MISP_HUMAN Mitotic interactor and substrate of PLK1 OS=Homo sapiens GN=MISP PE=1 SV=1
+sp|P69905|HBA_HUMAN Hemoglobin subunit alpha OS=Homo sapiens GN=HBA1 PE=1 SV=2
+sp|P01024|CO3_HUMAN Complement C3 OS=Homo sapiens GN=C3 PE=1 SV=2
+sp|Q9C0C2|TB182_HUMAN 182 kDa tankyrase-1-binding protein OS=Homo sapiens GN=TNKS1BP1 PE=1 SV=4
+tr|E9PHH5|E9PHH5_HUMAN Dolichol-phosphate mannosyltransferase OS=Homo sapiens GN=DPM1 PE=2 SV=1
+tr|G3V113|G3V113_HUMAN Ubiquitin-conjugating enzyme E2 variant 2 OS=Homo sapiens GN=UBE2V2 PE=4 SV=1
+sp|P52907|CAZA1_HUMAN F-actin-capping protein subunit alpha-1 OS=Homo sapiens GN=CAPZA1 PE=1 SV=3
+tr|E9PN11|E9PN11_HUMAN Rho-related GTP-binding protein RhoC (Fragment) OS=Homo sapiens GN=RHOC PE=2 SV=1
+tr|E7ESV4|E7ESV4_HUMAN Ras-related protein Rap-1b (Fragment) OS=Homo sapiens GN=RAP1B PE=2 SV=1
+tr|F6SBX2|F6SBX2_HUMAN Isoleucine--tRNA ligase, mitochondrial OS=Homo sapiens GN=IARS2 PE=2 SV=1
+sp|P02671|FIBA_HUMAN Fibrinogen alpha chain OS=Homo sapiens GN=FGA PE=1 SV=2
+sp|Q9NZB2|F120A_HUMAN Constitutive coactivator of PPAR-gamma-like protein 1 OS=Homo sapiens GN=FAM120A PE=1 SV=2
+tr|J3QRN2|J3QRN2_HUMAN Beta-2-glycoprotein 1 (Fragment) OS=Homo sapiens GN=APOH PE=2 SV=1
+sp|P62701|RS4X_HUMAN 40S ribosomal protein S4, X isoform OS=Homo sapiens GN=RPS4X PE=1 SV=2
+tr|B1AK87|B1AK87_HUMAN Capping protein (Actin filament) muscle Z-line, beta, isoform CRA_a OS=Homo sapiens GN=CAPZB PE=2 SV=1
+tr|M0R2A0|M0R2A0_HUMAN ER membrane protein complex subunit 10 OS=Homo sapiens GN=EMC10 PE=4 SV=1
+sp|Q08379|GOGA2_HUMAN Golgin subfamily A member 2 OS=Homo sapiens GN=GOLGA2 PE=1 SV=3
+tr|G3V1N2|G3V1N2_HUMAN HCG1745306, isoform CRA_a OS=Homo sapiens GN=HBA2 PE=2 SV=1
+tr|B4DFL2|B4DFL2_HUMAN Isocitrate dehydrogenase [NADP] OS=Homo sapiens GN=IDH2 PE=2 SV=1
+tr|E9PQD7|E9PQD7_HUMAN 40S ribosomal protein S2 OS=Homo sapiens GN=RPS2 PE=2 SV=1
+tr|H9KVA7|H9KVA7_HUMAN Carcinoembryonic antigen-related cell adhesion molecule 5 OS=Homo sapiens GN=CEACAM5 PE=4 SV=2
+sp|Q07666|KHDR1_HUMAN KH domain-containing, RNA-binding, signal transduction-associated protein 1 OS=Homo sapiens GN=KHDRBS1 PE=1 SV=1
+tr|E5RH00|E5RH00_HUMAN Ras GTPase-activating protein-binding protein 1 OS=Homo sapiens GN=G3BP1 PE=2 SV=1
+tr|B7Z321|B7Z321_HUMAN Exocyst complex component 4 OS=Homo sapiens GN=EXOC4 PE=2 SV=1
+tr|H0YAH3|H0YAH3_HUMAN N-acetylgalactosaminyltransferase 7 (Fragment) OS=Homo sapiens GN=GALNT7 PE=3 SV=1
+tr|B4DQJ8|B4DQJ8_HUMAN 6-phosphogluconate dehydrogenase, decarboxylating OS=Homo sapiens GN=PGD PE=2 SV=1
+tr|H0Y9X3|H0Y9X3_HUMAN Programmed cell death protein 6 (Fragment) OS=Homo sapiens GN=PDCD6 PE=2 SV=1
+tr|F5GXS2|F5GXS2_HUMAN Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=2 SV=1
+tr|K7EJY8|K7EJY8_HUMAN Galectin-3-binding protein (Fragment) OS=Homo sapiens GN=LGALS3BP PE=2 SV=1
+tr|F5H2U2|F5H2U2_HUMAN Serine/threonine-protein kinase PRP4 homolog OS=Homo sapiens GN=PRPF4B PE=2 SV=1
+sp|Q8WUM4|PDC6I_HUMAN Programmed cell death 6-interacting protein OS=Homo sapiens GN=PDCD6IP PE=1 SV=1
+sp|P21333|FLNA_HUMAN Filamin-A OS=Homo sapiens GN=FLNA PE=1 SV=4
+tr|E7EV01|E7EV01_HUMAN Calpain-5 OS=Homo sapiens GN=CAPN5 PE=2 SV=2
+tr|K7EJ44|K7EJ44_HUMAN Profilin 1, isoform CRA_b OS=Homo sapiens GN=PFN1 PE=2 SV=1
+tr|J3QLP1|J3QLP1_HUMAN Cocaine esterase (Fragment) OS=Homo sapiens GN=CES2 PE=2 SV=1
+tr|B4DDG7|B4DDG7_HUMAN AP-1 complex subunit mu-1 OS=Homo sapiens GN=AP1M1 PE=2 SV=1
+sp|Q96P70|IPO9_HUMAN Importin-9 OS=Homo sapiens GN=IPO9 PE=1 SV=3
+tr|D2KFR9|D2KFR9_HUMAN Signal transducer and activator of transcription 1-alpha/beta OS=Homo sapiens GN=STAT1 PE=2 SV=1
+sp|O00231|PSD11_HUMAN 26S proteasome non-ATPase regulatory subunit 11 OS=Homo sapiens GN=PSMD11 PE=1 SV=3
+tr|C9K025|C9K025_HUMAN 60S ribosomal protein L35a (Fragment) OS=Homo sapiens GN=RPL35A PE=2 SV=1
+tr|E9PQY2|E9PQY2_HUMAN Prefoldin subunit 4 OS=Homo sapiens GN=PFDN4 PE=2 SV=1
+tr|D6W5A2|D6W5A2_HUMAN Metastasis associated 1 family, member 3, isoform CRA_a OS=Homo sapiens GN=MTA3 PE=2 SV=1
+sp|Q16625|OCLN_HUMAN Occludin OS=Homo sapiens GN=OCLN PE=1 SV=1
+tr|F8WF32|F8WF32_HUMAN Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens GN=RPN1 PE=2 SV=1
+tr|B1AKY9|B1AKY9_HUMAN Sodium/potassium-transporting ATPase subunit alpha-2 OS=Homo sapiens GN=ATP1A2 PE=2 SV=1
+tr|C9JNW5|C9JNW5_HUMAN 60S ribosomal protein L24 OS=Homo sapiens GN=RPL24 PE=2 SV=1
+sp|Q96BQ1|FAM3D_HUMAN Protein FAM3D OS=Homo sapiens GN=FAM3D PE=1 SV=1
+tr|G3V2S9|G3V2S9_HUMAN SRA stem-loop-interacting RNA-binding protein, mitochondrial OS=Homo sapiens GN=SLIRP PE=2 SV=1
+tr|B0QYA5|B0QYA5_HUMAN Eukaryotic translation initiation factor 3 subunit D (Fragment) OS=Homo sapiens GN=EIF3D PE=2 SV=1
+gi|157649073|ref|NP_001099000.1| adenylyl cyclase-associated protein 1 [Homo sapiens]
+tr|B4E363|B4E363_HUMAN Phenylalanine--tRNA ligase alpha subunit OS=Homo sapiens GN=FARSA PE=2 SV=1
+tr|M0QZK8|M0QZK8_HUMAN Gamma-glutamylcyclotransferase OS=Homo sapiens GN=GGCT PE=4 SV=1
+sp|A6NDU8|CE051_HUMAN UPF0600 protein C5orf51 OS=Homo sapiens GN=C5orf51 PE=1 SV=1
+tr|H3BNF6|H3BNF6_HUMAN Major vault protein (Fragment) OS=Homo sapiens GN=MVP PE=2 SV=1
+tr|Q86UY0|Q86UY0_HUMAN Protein BLOC1S5-TXNDC5 OS=Homo sapiens GN=TXNDC5 PE=2 SV=1
+sp|Q01105|SET_HUMAN Protein SET OS=Homo sapiens GN=SET PE=1 SV=3
+tr|A6NEM2|A6NEM2_HUMAN HCF N-terminal chain 5 OS=Homo sapiens GN=HCFC1 PE=2 SV=2
+sp|P00505|AATM_HUMAN Aspartate aminotransferase, mitochondrial OS=Homo sapiens GN=GOT2 PE=1 SV=3
+sp|Q27J81|INF2_HUMAN Inverted formin-2 OS=Homo sapiens GN=INF2 PE=1 SV=2
+tr|B4DTC3|B4DTC3_HUMAN Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens GN=HNRNPD PE=2 SV=1
+tr|H3BMQ8|H3BMQ8_HUMAN Fructose-bisphosphate aldolase A (Fragment) OS=Homo sapiens GN=ALDOA PE=2 SV=1
+sp|Q7RTV0|PHF5A_HUMAN PHD finger-like domain-containing protein 5A OS=Homo sapiens GN=PHF5A PE=1 SV=1
+tr|H7C5W9|H7C5W9_HUMAN Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (Fragment) OS=Homo sapiens GN=ATP2A2 PE=3 SV=1
+sp|Q06830|PRDX1_HUMAN Peroxiredoxin-1 OS=Homo sapiens GN=PRDX1 PE=1 SV=1
+tr|D6RFH4|D6RFH4_HUMAN Cytochrome b5 type B OS=Homo sapiens GN=CYB5B PE=2 SV=1
+tr|B7Z8M7|B7Z8M7_HUMAN Ras-related protein Rab-1A OS=Homo sapiens GN=RAB1A PE=2 SV=1
+tr|J3KN16|J3KN16_HUMAN Proteasome-associated protein ECM29 homolog OS=Homo sapiens GN=KIAA0368 PE=2 SV=1
+tr|E7ETR0|E7ETR0_HUMAN RuvB-like 1 OS=Homo sapiens GN=RUVBL1 PE=2 SV=1
+tr|E9PMV1|E9PMV1_HUMAN Plectin (Fragment) OS=Homo sapiens GN=PLEC PE=2 SV=1
+tr|E7EPJ7|E7EPJ7_HUMAN Triple functional domain protein (Fragment) OS=Homo sapiens GN=TRIO PE=2 SV=2
+sp|P45877|PPIC_HUMAN Peptidyl-prolyl cis-trans isomerase C OS=Homo sapiens GN=PPIC PE=1 SV=1
+tr|D6RF62|D6RF62_HUMAN Phosphoribosylaminoimidazole carboxylase OS=Homo sapiens GN=PAICS PE=2 SV=1
+tr|B4E283|B4E283_HUMAN Apoptosis inhibitor 5 OS=Homo sapiens GN=API5 PE=2 SV=1
+tr|A6NLN1|A6NLN1_HUMAN Polypyrimidine tract binding protein 1, isoform CRA_e OS=Homo sapiens GN=PTBP1 PE=2 SV=3
+tr|D6R938|D6R938_HUMAN Calcium/calmodulin-dependent protein kinase (CaM kinase) II delta, isoform CRA_e OS=Homo sapiens GN=CAMK2D PE=2 SV=1
+sp|P11387|TOP1_HUMAN DNA topoisomerase 1 OS=Homo sapiens GN=TOP1 PE=1 SV=2
+tr|E7EPB3|E7EPB3_HUMAN 60S ribosomal protein L14 OS=Homo sapiens GN=RPL14 PE=2 SV=1
+tr|B3KQV6|B3KQV6_HUMAN Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform OS=Homo sapiens GN=PPP2R1A PE=2 SV=1
+tr|B3KSH1|B3KSH1_HUMAN Eukaryotic translation initiation factor 3 subunit F OS=Homo sapiens GN=EIF3F PE=2 SV=1
+sp|P20618|PSB1_HUMAN Proteasome subunit beta type-1 OS=Homo sapiens GN=PSMB1 PE=1 SV=2
+sp|Q13158|FADD_HUMAN Protein FADD OS=Homo sapiens GN=FADD PE=1 SV=1
+sp|Q9Y5K6|CD2AP_HUMAN CD2-associated protein OS=Homo sapiens GN=CD2AP PE=1 SV=1
+tr|B4DNT0|B4DNT0_HUMAN Leukocyte elastase inhibitor OS=Homo sapiens GN=SERPINB1 PE=2 SV=1
+sp|Q15437|SC23B_HUMAN Protein transport protein Sec23B OS=Homo sapiens GN=SEC23B PE=1 SV=2
+sp|P00403|COX2_HUMAN Cytochrome c oxidase subunit 2 OS=Homo sapiens GN=MT-CO2 PE=1 SV=1
+tr|K7EKM4|K7EKM4_HUMAN Spermidine synthase OS=Homo sapiens GN=SRM PE=2 SV=1
+tr|B4DQI4|B4DQI4_HUMAN Alpha/beta hydrolase domain-containing protein 14B OS=Homo sapiens GN=ABHD14B PE=2 SV=1
+sp|Q5T2D3|OTUD3_HUMAN OTU domain-containing protein 3 OS=Homo sapiens GN=OTUD3 PE=1 SV=1
+tr|E9PKF3|E9PKF3_HUMAN Sterol O-acyltransferase 1 (Fragment) OS=Homo sapiens GN=ACAT1 PE=2 SV=1
+sp|P04083|ANXA1_HUMAN Annexin A1 OS=Homo sapiens GN=ANXA1 PE=1 SV=2
+sp|P13010|XRCC5_HUMAN X-ray repair cross-complementing protein 5 OS=Homo sapiens GN=XRCC5 PE=1 SV=3
+tr|D6REL8|D6REL8_HUMAN Fibrinogen beta chain OS=Homo sapiens GN=FGB PE=2 SV=1
+sp|O14818|PSA7_HUMAN Proteasome subunit alpha type-7 OS=Homo sapiens GN=PSMA7 PE=1 SV=1
+sp|P62805|H4_HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2
+sp|Q8WVS4|WDR60_HUMAN WD repeat-containing protein 60 OS=Homo sapiens GN=WDR60 PE=1 SV=3
+tr|J3KNL6|J3KNL6_HUMAN Protein transport protein Sec16A OS=Homo sapiens GN=SEC16A PE=2 SV=1
+sp|P07384|CAN1_HUMAN Calpain-1 catalytic subunit OS=Homo sapiens GN=CAPN1 PE=1 SV=1
+tr|B4DXJ9|B4DXJ9_HUMAN Proteasome (Prosome, macropain) subunit, alpha type, 6, isoform CRA_a OS=Homo sapiens GN=PSMA6 PE=2 SV=1
+sp|Q5T4S7|UBR4_HUMAN E3 ubiquitin-protein ligase UBR4 OS=Homo sapiens GN=UBR4 PE=1 SV=1
+tr|F8VP50|F8VP50_HUMAN Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=2
+tr|F8WBS6|F8WBS6_HUMAN Protein disulfide-isomerase A3 OS=Homo sapiens GN=PDIA3 PE=2 SV=1
+tr|K7ELL7|K7ELL7_HUMAN Glucosidase 2 subunit beta OS=Homo sapiens GN=PRKCSH PE=2 SV=1
+sp|P24158|PRTN3_HUMAN Myeloblastin OS=Homo sapiens GN=PRTN3 PE=1 SV=3
+sp|A5YKK6|CNOT1_HUMAN CCR4-NOT transcription complex subunit 1 OS=Homo sapiens GN=CNOT1 PE=1 SV=2
+tr|C9JF79|C9JF79_HUMAN Malate dehydrogenase (Fragment) OS=Homo sapiens GN=MDH1 PE=2 SV=1
+sp|A6NMY6|AXA2L_HUMAN Putative annexin A2-like protein OS=Homo sapiens GN=ANXA2P2 PE=5 SV=2
