@@ -47,7 +47,7 @@ def write_to_csv(inv_counts, invasive_total, non_inv_counts, non_invasive_total,
         writer_to_csv = csv.writer(csvfile)
         writer_to_csv.writerow([
             "protein name", 
-            "total count", "total fraction", 
+            # "total count", "total fraction", 
             "invasive counts", "invasive fraction", 
             "non-invasive counts", "non-invasive fraction"
         ])
@@ -65,15 +65,15 @@ def write_to_csv(inv_counts, invasive_total, non_inv_counts, non_invasive_total,
 
             writer_to_csv.writerow([
                 protein, 
-                total_count, round(total_fraction, 5), 
+                # total_count, round(total_fraction, 5), 
                 invasive_count, round(invasive_fraction, 5), 
                 non_invasive_count, round(non_invasive_fraction, 5)
             ])
 
 
 if __name__ == '__main__':
-    stageIII_folder = "./StageIII_protein_list"
-    stageI_folder = "./StageI_protein_list"
+    stageIII_folder = "./noninvasive_protein_list"
+    stageI_folder = "./noninvasive_protein_list"
     output_csv = "./protein_summary.csv"
     
     try:

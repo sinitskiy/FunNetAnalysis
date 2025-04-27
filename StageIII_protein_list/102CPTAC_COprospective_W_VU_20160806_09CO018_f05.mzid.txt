@@ -1,3 +1,0 @@
-ref|NP_001029249.1| histone H4 [Homo sapiens]
-ref|NP_006588.1| heat shock cognate 71 kDa protein isoform 1 [Homo sapiens]
-ref|NP_000509.1| hemoglobin subunit beta [Homo sapiens]
