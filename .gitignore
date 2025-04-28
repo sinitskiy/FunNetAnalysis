@@ -9,3 +9,4 @@ invasive_protein_list
 *.py[cod]
 __pycache__/
 wd/
+*_problematic_files*.txt
