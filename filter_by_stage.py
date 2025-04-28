@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('./wd/unambiguous_file_metadata_with_urls.csv')
 
 # Print unique values from the "tumor_stage" column
 print("Unique values in 'tumor_stage':", df['tumor_stage'].unique())
