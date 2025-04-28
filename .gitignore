@@ -1,3 +1,11 @@
+.DS_Store
+.venv
+data*.csv
+old
+downloaded_files_*
+extracted_files_*
+noninvasive_protein_list
+invasive_protein_list
 *.py[cod]
 __pycache__/
 wd/
