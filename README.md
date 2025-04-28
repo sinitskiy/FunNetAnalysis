@@ -2,7 +2,7 @@ Step 1. Get data on samples with  known and unique Stages, and unique Disease ty
 
 python pdc_discovery_scripts/main.py
 
-This generates data.csv file.
+This generates the "unambiguous_file_metadata_with_urls.csv" file under ./wd.
 
 Step 2. Filter by cancer stages
 

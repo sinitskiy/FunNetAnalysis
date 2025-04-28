@@ -2,6 +2,7 @@
 main entry point
 '''
 
+import os
 import itertools
 import asyncio
 from typing import TypeVar
@@ -44,6 +45,8 @@ async def main():
     '''
     main entry point
     '''
+    os.makedirs('wd', exist_ok=True)
+
     transport = httpx.AsyncHTTPTransport(retries=5)
     waiter = Waiter()
 
