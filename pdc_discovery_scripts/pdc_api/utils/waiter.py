@@ -2,7 +2,7 @@
 A context manager that waits for a given interval between operations.
 '''
 
-from time import monotonic_ns
+from time import monotonic
 import asyncio
 from contextlib import asynccontextmanager
 
@@ -14,7 +14,7 @@ class Waiter():
     interval: float
 
     lock: asyncio.Lock
-    last_execution_time: int
+    last_execution_time: float
 
     def __init__(self, interval: float = 0.5):
         self.interval = interval
@@ -30,12 +30,12 @@ class Waiter():
 
         await self.lock.acquire()
         try:
-            now = monotonic_ns()
-            earliest = self.last_execution_time + self.interval * 1e9
+            now = monotonic()
+            earliest = self.last_execution_time + self.interval
             if now < earliest:
-                await asyncio.sleep((earliest - now) / 1e9)
+                await asyncio.sleep(earliest - now)
 
             yield None
         finally:
-            self.last_execution_time = monotonic_ns()
+            self.last_execution_time = monotonic()
             self.lock.release()

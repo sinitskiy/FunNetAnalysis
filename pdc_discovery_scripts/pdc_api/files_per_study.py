@@ -6,8 +6,8 @@ https://proteomic.datacommons.cancer.gov/pdc/publicapi-documentation/#!/Files/fi
 from httpx import AsyncClient
 from pydantic import BaseModel
 
-from .waiter import Waiter
-from .query_pdc import query_pdc
+from .utils.make_query import make_query
+from .utils.waiter import Waiter
 
 
 class _SignedUrl(BaseModel):
@@ -16,7 +16,6 @@ class _SignedUrl(BaseModel):
 
 class _File(BaseModel):
     file_id: str
-    file_name: str
     signedUrl: _SignedUrl
 
 
@@ -28,35 +27,40 @@ class _QueryResponse(BaseModel):
     data: _Data
 
 
-async def query_files_per_study(
+async def files_per_study(
     *,
     client: AsyncClient,
     waiter: Waiter,
     pdc_study_id: str,
+    update: bool = False,
 ):
     '''
-    Query the PDC API for files in a given study.
+    Get all file data for a given pdc_study_id.
     '''
 
-    query = f'''query {{
-    filesPerStudy(
-        pdc_study_id: "{pdc_study_id}"
-        file_type: "Open Standard"
-        data_category: "Peptide Spectral Matches"
-    ) {{
-        file_id
-        file_name
-        signedUrl {{
-            url
+    query = f'''
+        query {{
+            filesPerStudy(
+                pdc_study_id: "{pdc_study_id}"
+                data_category: "Peptide Spectral Matches"
+                file_type: "Open Standard"
+                file_format: "mzIdentML"
+                limit: 25000
+            ) {{
+                file_id
+                signedUrl {{
+                    url
+                }}
+            }}
         }}
-    }}
-}}'''
+    '''
 
-    response = await query_pdc(
+    response = await make_query(
         client=client,
         waiter=waiter,
         query=query,
         model=_QueryResponse,
+        update=update,
     )
 
     return response.data.filesPerStudy

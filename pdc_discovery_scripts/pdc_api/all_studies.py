@@ -1,4 +1,6 @@
 '''
+Get all pdc_study_id from the PDC API.
+
 documentation:
 https://proteomic.datacommons.cancer.gov/pdc/publicapi-documentation/#!/Study/studyCatalog
 '''
@@ -6,8 +8,8 @@ https://proteomic.datacommons.cancer.gov/pdc/publicapi-documentation/#!/Study/st
 from httpx import AsyncClient
 from pydantic import BaseModel
 
-from .query_pdc import query_pdc
-from .waiter import Waiter
+from .utils.make_query import make_query
+from .utils.waiter import Waiter
 
 
 class _Study(BaseModel):
@@ -22,26 +24,33 @@ class _QueryResponse(BaseModel):
     data: _Data
 
 
-async def query_study_catalog(
+async def all_studies(
     *,
     client: AsyncClient,
     waiter: Waiter,
 ):
     '''
-    Query the PDC API for all available studies.
+    Get all pdc_study_id from the PDC API.
     '''
 
-    query = '''query {
-    studyCatalog {
-        pdc_study_id
-    }
-}'''
+    query = '''
+        query {
+            studyCatalog {
+                pdc_study_id
+            }
+        }
+    '''
 
-    response = await query_pdc(
+    response = await make_query(
         client=client,
         waiter=waiter,
         query=query,
         model=_QueryResponse,
     )
 
-    return response.data.studyCatalog
+    pdc_study_ids = [
+        study.pdc_study_id
+        for study in response.data.studyCatalog
+    ]
+
+    return pdc_study_ids
