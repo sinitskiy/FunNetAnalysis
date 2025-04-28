@@ -21,5 +21,6 @@ Step 4. Count proteins in txt files
 python write_to_csv.py
 
 This generates protein_summary.csv.
+It writes the proteins and its detials to a csv that we can use.
 
 Step 5. Use Cytoscape to process the data from protein_summary.csv
