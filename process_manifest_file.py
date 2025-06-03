@@ -115,7 +115,7 @@ def process_keyword(keyword, delete_downloaded_files=False):
             except Exception as e:
                 print(f"Error writing to {protein_list_file}: {e}")
 
-            # If number of proteins > 100, record this file as problematic.
+            # If number of proteins < 300, record this file as problematic.
             
             is_problematic = protein_count < 300
             if is_problematic:
@@ -140,13 +140,13 @@ def process_keyword(keyword, delete_downloaded_files=False):
                 if os.path.exists(extracted_path):
                     os.remove(extracted_path)
                     print(f"Deleted extracted file {extracted_path}")
-                """
+                
                 if not is_problematic and os.path.exists(extracted_path):
                     os.remove(extracted_path)
                     print(f"Deleted extracted file {extracted_path}")
                 elif is_problematic:
                     print(f"Kept extracted file {extracted_path} for review (problematic file).")
-                """
+                
             except Exception as e:
                 print(f"Error deleting files: {e}")
 
