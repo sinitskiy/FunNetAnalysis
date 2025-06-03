@@ -1,4 +1,10 @@
-## FunNet Project Overview
+# FunNetAnalysis
+
+This repository corresponds to the research results reported in this paper on bioRxiv:
+
+**[Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://doi.org/10.1101/2025.05.14.654152)**
+
+## Project Overview
 
 The purpose of this repository is to streamline the retrieval and analysis of protien-related information from the [Proteomic Data Commons](https://proteomic.datacommons.cancer.gov/pdc/) (PDC) database. These scrips allow users to filter by certain categories, retrieve and store the metadata in a CSV file, download and extract the protein names of each data files, record any problematic files, and count each protein name for occurrences. There will be multiple CSV files generated and the final output is a CSV file with protein counts and fractions. 
 
@@ -17,7 +23,7 @@ Run `pdc_discovery_scripts/main.py`.
 Example of output CSV:
 
 | file_id  |file_name|file_location|pdc_study_id|disease_type|tumor_stage|download_url|
-| -------- |:-------:|:-----------:|:----------:|:----------:|:---------:|:----------:|
+|:--------:|:-------:|:-----------:|:----------:|:----------:|:---------:|:----------:|
 |0019dd1...|TCGA-A...|studies/11...|PDC000111   |Colon Ade...|Stage IIA  |https://d...|
 
 **Step 2** You can separate `unambiguous_file_metadata_with_urls.csv` file base on `cancer stages`. 
@@ -34,20 +40,20 @@ Run `process_manifest_file.py`.
 
 - Each txt file is named as the downloaded data file and contain lists of protein names. 
 
-- Files recorded as `problematic files` will **not** be deleted and will be stored inside `extracted files` folder. 
+- `.mzid` files recorded as `problematic files` will **not** be deleted and will be stored inside `extracted files` folder. 
 
-**Step 4** Count each protein name in all txt files.
+**Step 4** Count protein name in all txt files.
 
 Run `write_to_csv.py`.
 
 - This generates protein_summary.csv.
 
-Example of output: 
+Example of output CSV: 
 | protein name  |invasive counts|invasive fraction|non-invasive counts|non-invasive fraction|
-| ------------- |:-------------:|:---------------:|:-----------------:|:-------------------:|
+|:-------------:|:-------------:|:---------------:|:-----------------:|:-------------------:|
 | A8MXR0        | 33            | 0.05046         | 18                | 0.0625              |
 
-- It counts the protein names and fraction in related stages.
+- It counts the protein names and their fraction in related stages.
 
 **Step 5(optional)** You can use Cytoscape to process the data from protein_summary.csv. 
 
