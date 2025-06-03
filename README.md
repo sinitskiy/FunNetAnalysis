@@ -12,7 +12,7 @@ Ensure you have Python installed. No other dependencies are required.
 
 Run `pdc_discovery_scripts/main.py`.
 
-This generates the `unambiguous_file_metadata_with_urls.csv` file under the folder `./wd` which contains download links.
+- This generates the `unambiguous_file_metadata_with_urls.csv` file inside the folder `./wd` which contains multiple fields, including download links.
 
 Example of output CSV:
 
@@ -20,13 +20,13 @@ Example of output CSV:
 | -------- |:-------:|:-----------:|:----------:|:----------:|:---------:|:----------:|
 |0019dd1...|TCGA-A...|studies/11...|PDC000111   |Colon Ade...|Stage IIA  |https://d...|
 
-**Step 2** You can separate the generated CSV file by cancer stages. 
+**Step 2** You can separate `unambiguous_file_metadata_with_urls.csv` file base on `cancer stages`. 
 
 Run `filter_by_stage.py` .
 
-This generates CSV files for `data_noninvasive.csv` and `data_invasive.csv` files.
+- This generates CSV files for `data_noninvasive.csv` and `data_invasive.csv` files.
 
-**Step 3** Download and process .mzid.gz data files and extract protein names in txt files.
+**Step 3** Download and process `.mzid.gz` data files and extract protein names inside txt files.
 
 Run `process_manifest_file.py`. 
 
@@ -34,20 +34,20 @@ Run `process_manifest_file.py`.
 
 - Each txt file is named as the downloaded data file and contain lists of protein names. 
 
-- Files recorded as problematic files will **not** be deleted and will be stored inside `extracted files` folder. 
+- Files recorded as `problematic files` will **not** be deleted and will be stored inside `extracted files` folder. 
 
 **Step 4** Count each protein name in all txt files.
 
 Run `write_to_csv.py`.
 
-This generates protein_summary.csv.
+- This generates protein_summary.csv.
 
 Example of output: 
 | protein name  |invasive counts|invasive fraction|non-invasive counts|non-invasive fraction|
 | ------------- |:-------------:|:---------------:|:-----------------:|:-------------------:|
 | A8MXR0        | 33            | 0.05046         | 18                | 0.0625              |
 
-It counts the protein names and related fraction in related stages to a csv that you can use.
+- It counts the protein names and fraction in related stages.
 
 **Step 5(optional)** You can use Cytoscape to process the data from protein_summary.csv. 
 
@@ -62,7 +62,7 @@ Inside `all_file_metadata.py`, look for:
         limit: 25000
     ) 
 ```
-You can override these fields base on the existing categories on PDC databse:
+You can adjust these fields base on the existing categories on [PDC database](https://proteomic.datacommons.cancer.gov/pdc/):
 - `data_category`
 - `file_type`
 - `file_format`
@@ -70,14 +70,14 @@ You can override these fields base on the existing categories on PDC databse:
 Remember to modify related fields inside `files_per_study.py` as well in order for the script to generate download links: 
 ```bash
     filesPerStudy(
-        pdc_study_id:  "{pdc_study_id}"
+        pdc_study_id: "{pdc_study_id}"
         data_category: "Peptide Spectral Matches"
-        file_type:     "Open Standard"
-        file_format:   "mzIdentML"
-        limit:         25000
+        file_type: "Open Standard"
+        file_format: "mzIdentML"
+        limit: 25000
     )
 ```
-In `studies_per_disease.py`, you can specify a `{disease type}` shown on PDC database:
+In `studies_per_disease.py`, you can specify a `{disease type}` shown on [PDC database](https://proteomic.datacommons.cancer.gov/pdc/):
 ```bash
 programsProjectsStudies(disease_type: "{disease_type}") {
     projects {
@@ -92,7 +92,7 @@ You can determine which files get stored in the problematic file list by adjusti
 
 ## Known Issue
 
-When you run `main.py` and the terminal returns `httpx.ReadTimeout`, find the following command inside `main.py`:
+When you run `main.py`, if the terminal returns `httpx.ReadTimeout`, find the following command inside `main.py`:
 ```bash
     async with httpx.AsyncClient(
         timeout=10,
