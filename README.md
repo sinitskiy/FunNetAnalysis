@@ -1,4 +1,4 @@
-## NunNet Project Overview
+## FunNet Project Overview
 
 The purpose of this repository is to streamline the retrieval and analysis of protien-related information from the [Proteomic Data Commons](https://proteomic.datacommons.cancer.gov/pdc/) (PDC) database. These scrips allow users to filter by certain categories, retrieve and store the metadata in a CSV file, download and extract the protein names of each data files, record any problematic files, and count each protein name for occurrences. There will be multiple CSV files generated and the final output is a CSV file with protein counts and fractions. 
 
